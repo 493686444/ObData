@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "阅读/书单.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "阅读/书单.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "阅读/书单.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "阅读/书单.md"
               }
             }
           }
@@ -149,10 +149,10 @@
   },
   "active": "0093ab052548a32b",
   "lastOpenFiles": [
+    "test.md",
     "娱乐视频/动漫观看进度.md",
     "娱乐视频/sense.md",
     "阅读/书单.md",
-    "test.md",
     "阅读.md"
   ]
 }
