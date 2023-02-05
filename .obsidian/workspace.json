@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7abcfc2bfec26a9f",
+        "id": "4a602aee44f95ef1",
         "type": "tabs",
         "children": [
           {
-            "id": "0093ab052548a32b",
+            "id": "3eeee9ca5830f0ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/书单.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读/书单.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读/书单.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "阅读/书单.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,12 +139,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "0093ab052548a32b",
+  "active": "3eeee9ca5830f0ff",
   "lastOpenFiles": [
+    "我的单词本.md",
     "test.md",
+    "阅读/书单.md",
     "娱乐视频/动漫观看进度.md",
     "娱乐视频/sense.md",
-    "阅读/书单.md",
     "阅读.md"
   ]
 }
