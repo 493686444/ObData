@@ -11,11 +11,28 @@
             "id": "3eeee9ca5830f0ff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "癸卯兔年日记/正月廿五.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "661f9fe69bb7d7ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "癸卯兔年手记/正月十一.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "癸卯兔年手记/正月十一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "癸卯兔年手记/正月十一.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "癸卯兔年手记/正月十一.md"
+              }
             }
           }
         ]
@@ -139,8 +160,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "3eeee9ca5830f0ff",
+  "active": "661f9fe69bb7d7ab",
   "lastOpenFiles": [
+    "癸卯兔年手记/正月十二.md",
+    "癸卯兔年手记/正月十一.md",
+    "癸卯兔年日记/正月廿五.md",
+    "癸卯兔年日记/正月廿四.md",
     "我的单词本.md",
     "test.md",
     "阅读/书单.md",
