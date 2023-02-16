@@ -11,8 +11,12 @@
             "id": "6cefa5396808b24b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "癸卯兔年日记/正月廿三.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "癸卯兔年日记/正月廿三.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "癸卯兔年日记/正月廿三.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "癸卯兔年日记/正月廿三.md"
+              }
             }
           }
         ]
@@ -141,6 +149,7 @@
   },
   "active": "6cefa5396808b24b",
   "lastOpenFiles": [
+    "阅读/书单.md",
     "癸卯兔年日记/正月廿五.md",
     "IT/HTTPS.md",
     "癸卯兔年手记/正月十一.md",
@@ -148,7 +157,6 @@
     "癸卯兔年日记/正月廿四.md",
     "我的单词本.md",
     "test.md",
-    "阅读/书单.md",
     "娱乐视频/动漫观看进度.md",
     "娱乐视频/sense.md"
   ]
