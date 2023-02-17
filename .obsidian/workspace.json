@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "29793006bb35fc2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "金融/boss上收集的一个招聘.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读/书单.md",
+                "file": "金融/boss上收集的一个招聘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读/书单.md",
+                "file": "金融/boss上收集的一个招聘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读/书单.md"
+                "file": "金融/boss上收集的一个招聘.md"
               }
             }
           }
@@ -147,10 +160,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "6cefa5396808b24b",
+  "active": "29793006bb35fc2c",
   "lastOpenFiles": [
-    "癸卯兔年日记/正月廿三.md",
     "阅读/书单.md",
+    "癸卯兔年日记/正月廿三.md",
     "癸卯兔年日记/正月廿五.md",
     "IT/HTTPS.md",
     "癸卯兔年手记/正月十一.md",
