@@ -11,8 +11,12 @@
             "id": "9ecc0decb0f649bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "主页/账号.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "金融/boss上收集的一个招聘.md",
+                "file": "主页/账号.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "金融/boss上收集的一个招聘.md",
+                "file": "主页/账号.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "金融/boss上收集的一个招聘.md"
+                "file": "主页/账号.md"
               }
             }
           }
@@ -143,7 +147,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "5c728c71145cff9d",
+  "active": "9ecc0decb0f649bf",
   "lastOpenFiles": [
     "阅读/书单.md",
     "癸卯兔年日记/正月廿三.md",
