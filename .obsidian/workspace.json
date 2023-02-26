@@ -20,12 +20,14 @@
             }
           },
           {
-            "id": "875b3dde9a7661a9",
+            "id": "61b148f9e2e220f5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.15"
+                "file": "娱乐/DNF搭建.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "草稿纸.md",
+                "file": "娱乐/DNF搭建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "草稿纸.md",
+                "file": "娱乐/DNF搭建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "草稿纸.md"
+                "file": "娱乐/DNF搭建.md"
               }
             }
           }
@@ -158,8 +160,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "875b3dde9a7661a9",
+  "active": "61b148f9e2e220f5",
   "lastOpenFiles": [
+    "草稿纸.md",
+    "娱乐/DNF搭建.md",
     "主页/账号.md",
     "阅读/书单.md",
     "癸卯兔年日记/正月廿三.md",
@@ -168,7 +172,6 @@
     "癸卯兔年手记/正月十一.md",
     "癸卯兔年手记/正月十二.md",
     "癸卯兔年日记/正月廿四.md",
-    "我的单词本.md",
-    "草稿纸.md"
+    "我的单词本.md"
   ]
 }
