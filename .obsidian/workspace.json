@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f20841a081ea1617",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021 辛丑牛/05.14 四月初三.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1db91e649056ae7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021 辛丑牛/05.10 三月廿九.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c481b6b828bd8c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021 辛丑牛/05.09 三月廿八.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读/0书单.md",
+                "file": "2021 辛丑牛/05.09 三月廿八.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读/0书单.md",
+                "file": "2021 辛丑牛/05.09 三月廿八.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读/0书单.md"
+                "file": "2021 辛丑牛/05.09 三月廿八.md"
               }
             }
           }
@@ -147,8 +184,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "4ec8fac4abf9e092",
+  "active": "0c481b6b828bd8c5",
   "lastOpenFiles": [
+    "2021 辛丑牛/05.10 三月廿九.md",
+    "2021 辛丑牛/05.09 三月廿八.md",
+    "2021 辛丑牛/05.14 四月初三.md",
+    "阅读/0书单.md",
     "阅读/网络收集/刘远举：科学为什么难以战胜谣言.md",
     "IT/HTTPS.md",
     "IT/网站.md",
@@ -160,7 +201,6 @@
     "阅读/网络收集/星学院.md",
     "阅读/认知觉醒.md",
     "阅读/血酬定律.md",
-    "阅读/0书单.md",
     "阅读/自下而上.md",
     "阅读/欲罢不能.md",
     "阅读/改变.md",
@@ -174,9 +214,6 @@
     "2022 壬寅虎/07.11 六月十三.md",
     "2022 壬寅虎/05.19 四月十九.md",
     "2022 壬寅虎/04.12 三月十二.md",
-    "2022 壬寅虎/10.13 九月十八.md",
-    "2022 壬寅虎/下年 01.01 腊月初十.md",
-    "2022 壬寅虎/08.26 七月十一.md",
     "2023癸卯兔年/手记",
     "2023癸卯兔年/日记",
     "2023癸卯兔年",
