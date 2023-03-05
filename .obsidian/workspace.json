@@ -11,8 +11,12 @@
             "id": "41002f87984e32a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "阅读/书单.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "主页/账号.md",
+                "file": "阅读/书单.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "主页/账号.md",
+                "file": "阅读/书单.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "主页/账号.md"
+                "file": "阅读/书单.md"
               }
             }
           }
@@ -143,8 +147,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "5c728c71145cff9d",
+  "active": "41002f87984e32a7",
   "lastOpenFiles": [
+    "主页/核心.md",
+    "娱乐/动漫观看进度.md",
     "语言/有道词典单词.md",
     "语言",
     "新建文件夹",
@@ -153,7 +159,6 @@
     "阅读/道德经",
     "草稿纸.md",
     "2023癸卯兔年/手记/二月初八.md",
-    "娱乐/动漫观看进度.md",
     "阅读/书单.md",
     "IT/HTTPS.md",
     "娱乐/DNF搭建.md",
