@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0f67e8e49ac63344",
+        "id": "7b92173500ef58fb",
         "type": "tabs",
         "children": [
           {
-            "id": "f427ab0e54c6f39a",
+            "id": "4ec8fac4abf9e092",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "金融/赚钱的基本逻辑.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4fc9369241e41fbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/网站.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17442312348b94ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/书.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/书.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "IT/书.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -172,10 +139,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "17442312348b94ad",
+  "active": "4ec8fac4abf9e092",
   "lastOpenFiles": [
+    "IT/HTTPS.md",
     "IT/网站.md",
     "IT/书.md",
+    "2022壬寅虎",
     "金融/赚钱的基本逻辑.md",
     "阅读/查拉图斯特拉如是说.md",
     "阅读/原则.md",
@@ -200,7 +169,6 @@
     "2022 壬寅虎/10.13 九月十八.md",
     "2022 壬寅虎/下年 01.01 腊月初十.md",
     "2022 壬寅虎/08.26 七月十一.md",
-    "2022 壬寅虎/07.14 六月十六 反思.md",
     "2023癸卯兔年/手记",
     "2023癸卯兔年/日记",
     "2023癸卯兔年",
