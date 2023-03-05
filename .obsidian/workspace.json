@@ -4,115 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7b92173500ef58fb",
+        "id": "01a16633a33fb8be",
         "type": "tabs",
         "children": [
           {
-            "id": "f63807d6b1d267f2",
+            "id": "2af159857b0268e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021 辛丑牛/04.03 二月廿二.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba1db6f781ae5406",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2019 乙亥猪/03.27 二月廿一.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c4cbde85c6e7d42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/网络收集/毁了一个人的4种方式.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "195e60c38e7559f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2019 乙亥猪/11.10 十月十四.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "167f184fbba7e7ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2019 乙亥猪/02.08 正月廿四.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90fff3b79355fbb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/网络收集/知乎/如何评价当今中国的男性群体？.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6336f786ce8a162",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/网络收集/知乎/男生会在意女孩家境吗.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca51c04c00900deb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "娱乐/动漫观看进度.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,7 +143,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "ca51c04c00900deb",
+  "active": "5c728c71145cff9d",
   "lastOpenFiles": [
     "IT/DNF搭建.md",
     "阅读/网络收集/知乎/男生会在意女孩家境吗.md",
