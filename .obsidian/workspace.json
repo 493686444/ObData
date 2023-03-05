@@ -23,9 +23,11 @@
             "id": "2b49aa7d43a5275a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/img/漫画无罪之城01.jpg"
+                "file": "阅读/网络收集/漫画 无罪之城.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/img/漫画无罪之城01.jpg",
+                "file": "阅读/网络收集/漫画 无罪之城.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/img/漫画无罪之城01.jpg",
+                "file": "阅读/网络收集/漫画 无罪之城.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/img/漫画无罪之城01.jpg"
+                "file": "阅读/网络收集/漫画 无罪之城.md"
               }
             }
           }
@@ -160,9 +162,9 @@
   },
   "active": "2b49aa7d43a5275a",
   "lastOpenFiles": [
+    "assets/img/漫画无罪之城01.jpg",
     "阅读/网络收集/漫画 无罪之城.md",
     "assets/img/漫画无罪之城01.jpg.md",
-    "assets/img/漫画无罪之城01.jpg",
     "assets/img",
     "2021 辛丑牛/04.02 二月廿一.md",
     "2021 辛丑牛/04.03 二月廿二.md",
