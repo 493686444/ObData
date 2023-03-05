@@ -4,119 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a02a300804af8f76",
+        "id": "cc68e99521f5a986",
         "type": "tabs",
         "children": [
           {
-            "id": "dafb52507b919259",
+            "id": "a7a80da63304ec0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读/书单.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "244e58ef58b7c411",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/网络收集/秦始皇是暴君吗？ - 知乎.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbe283ff03df682f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/网络收集/商业分析能力是怎样炼成的？ - 知乎.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7dcebe5ca9570a8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/网络收集/萨古鲁：吸引力法则真的有效吗？.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d71fb68096701447",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/网络收集/有哪些20岁年轻人越早知道越好的道理？ - 知乎.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db03981381991bf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/sql执行顺序.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84be9ae4b3675bd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/网络收集/刘远举：科学为什么难以战胜谣言.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68583f4a89e16ea0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/欲罢不能.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b3e9172ab76dd3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/自下而上.md",
+                "file": "阅读/不成熟的父母.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读/自下而上.md",
+                "file": "阅读/不成熟的父母.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读/自下而上.md",
+                "file": "阅读/不成熟的父母.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读/自下而上.md"
+                "file": "阅读/不成熟的父母.md"
               }
             }
           }
@@ -244,10 +147,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "8b3e9172ab76dd3e",
+  "active": "a7a80da63304ec0b",
   "lastOpenFiles": [
-    "阅读/欲罢不能.md",
     "阅读/自下而上.md",
+    "阅读/不成熟的父母.md",
+    "阅读/欲罢不能.md",
     "阅读/网络收集/刘远举：科学为什么难以战胜谣言.md",
     "IT/sql执行顺序.md",
     "阅读/网络收集/有哪些20岁年轻人越早知道越好的道理？ - 知乎.md",
@@ -272,7 +176,6 @@
     "2022 壬寅虎/03.25 二月廿三.md",
     "2022 壬寅虎/03.20 二月十八 春分.md",
     "2022 壬寅虎/03.03 二月初一.md",
-    "2022 壬寅虎/02.16 正月十六.md",
     "2023癸卯兔年/手记",
     "2023癸卯兔年/日记",
     "2023癸卯兔年",
