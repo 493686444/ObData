@@ -11,8 +11,12 @@
             "id": "4ec8fac4abf9e092",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "阅读/0书单.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "阅读/0书单.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "阅读/0书单.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "阅读/0书单.md"
+              }
             }
           }
         ]
@@ -141,6 +149,7 @@
   },
   "active": "4ec8fac4abf9e092",
   "lastOpenFiles": [
+    "阅读/网络收集/刘远举：科学为什么难以战胜谣言.md",
     "IT/HTTPS.md",
     "IT/网站.md",
     "IT/书.md",
@@ -156,7 +165,6 @@
     "阅读/欲罢不能.md",
     "阅读/改变.md",
     "阅读/不成熟的父母.md",
-    "阅读/网络收集/刘远举：科学为什么难以战胜谣言.md",
     "IT/sql执行顺序.md",
     "阅读/网络收集/有哪些20岁年轻人越早知道越好的道理？ - 知乎.md",
     "阅读/网络收集/萨古鲁：吸引力法则真的有效吗？.md",
