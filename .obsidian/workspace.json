@@ -45,9 +45,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b6d81232c057b838",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021 辛丑牛/09.15 八月初九.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "242c43f949d4618c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021 辛丑牛/09.12 八月初六.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1733bed7c385803",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021 辛丑牛/09.17 八月十一.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -113,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021 辛丑牛/09.16 八月初十.md",
+                "file": "2021 辛丑牛/09.17 八月十一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2021 辛丑牛/09.16 八月初十.md",
+                "file": "2021 辛丑牛/09.17 八月十一.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021 辛丑牛/09.16 八月初十.md"
+                "file": "2021 辛丑牛/09.17 八月十一.md"
               }
             }
           }
@@ -175,12 +214,15 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "c1c7c0ad0d15ad87",
+  "active": "a1733bed7c385803",
   "lastOpenFiles": [
-    "2021 辛丑牛/10.07 九月初二.md",
-    "2021 辛丑牛/09.16 八月初十.md",
     "2021 辛丑牛/未命名.md",
     "2021 辛丑牛/09.17 八月十一.md",
+    "2021 辛丑牛/09.15 八月初九.md",
+    "2021 辛丑牛/09.12 八月初六.md",
+    "2021 辛丑牛/08.25 七月十八.md",
+    "2021 辛丑牛/09.16 八月初十.md",
+    "2021 辛丑牛/10.07 九月初二.md",
     "2021 辛丑牛/10.24 九月十九.md",
     "2021 辛丑牛/11.13 十月初九.md",
     "2021 辛丑牛/11.14 十月初十.md",
@@ -207,9 +249,6 @@
     "IT/NET",
     "娱乐",
     "assets",
-    "IT/DNF搭建.md",
-    "阅读/网络收集/知乎/男生会在意女孩家境吗.md",
-    "阅读/网络收集/知乎/知识诅咒.md",
     "阅读/网络收集/知乎/assets/男生会在意女孩家境吗01.jpeg",
     "阅读/网络收集/知乎/assets/男生会在意女孩家境吗00.jpeg",
     "阅读/网络收集/知乎/assets",
