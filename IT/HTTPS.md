@@ -4,3 +4,9 @@
 ## HTTPS特点：
 基于HTTP协议，通过SSL或TLS提供加密处理数据、验证对方身份以及数据完整性保护
 
+```C#
+int a;
+a=1;
+ConsoleWrite("1");
+```
+
