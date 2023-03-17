@@ -6,7 +6,7 @@
 with temp as(
 	select * from [T] where s_code = 1
     union all
-    select a.* from [T] a inner join temp on a.patientId = temp.s_code
+    select a.* from [T] a inner join temp on a.s_fcode = temp.s_code
 )
 select * from temp
 ```
