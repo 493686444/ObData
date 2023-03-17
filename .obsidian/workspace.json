@@ -11,8 +11,13 @@
             "id": "56fe59ecb5c4868a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "IT/数据库/【SQL SERVER】递归查询.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IT/数据库/【SQL SERVER】递归查询.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IT/数据库/【SQL SERVER】递归查询.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IT/数据库/【SQL SERVER】递归查询.md"
+              }
             }
           }
         ]
@@ -142,7 +152,17 @@
   "active": "56fe59ecb5c4868a",
   "lastOpenFiles": [
     "未命名.canvas",
+    "阅读/寻觅意义.md",
+    "IT/NET/IOC控制反转-依赖注入.md",
+    "IT/数据库/【SQL SERVER】递归查询.md",
     "草稿纸.md",
+    "IT/书.md",
+    "IT/网站.md",
+    "IT/DNF搭建.md",
+    "IT/HTTPS.md",
+    "IT/sql执行顺序.md",
+    "IT/NET/数据持久化/ADO.NET/问题.md",
+    "IT/数据库/home.md",
     "主页/账号.md",
     "主页/核心.md",
     "主页/未来想做的事.md",
@@ -163,19 +183,9 @@
     "阅读/网络收集/萨古鲁：吸引力法则真的有效吗？.md",
     "阅读/网络收集/知乎",
     "阅读/网络收集/漫画 无罪之城.md",
-    "阅读/网络收集/毁了一个人的4种方式.md",
-    "阅读/网络收集/曾仕强：什么是真正的信仰？人活着到底需要怎样的信仰.md",
-    "阅读/网络收集/朱光潜：我不能告诉你必读的书，只能告诉你不必读的书.md",
     "阅读/网络收集/assets",
-    "阅读/网络收集/星学院.md",
-    "阅读/网络收集/刘远举：科学为什么难以战胜谣言.md",
     "阅读/道德经",
-    "阅读/认知觉醒.md",
-    "阅读/血酬定律.md",
-    "阅读/自下而上.md",
     "阅读/网络收集",
-    "阅读/欲罢不能.md",
-    "阅读/查拉图斯特拉如是说.md",
     "阅读",
     "语言",
     "娱乐",
