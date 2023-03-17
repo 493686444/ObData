@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5f6091e61983ae01",
+        "id": "4d2659be3445ae50",
         "type": "tabs",
         "children": [
           {
-            "id": "d1a42268405ec0b2",
+            "id": "56fe59ecb5c4868a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,7 +139,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "d1a42268405ec0b2",
+  "active": "56fe59ecb5c4868a",
   "lastOpenFiles": [
     "未命名.canvas",
     "草稿纸.md",
