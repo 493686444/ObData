@@ -4,9 +4,9 @@
 
 ```sql
 with temp as(
-	select * from [T] where id = 1
+	select * from [T] where s_code = 1
     union all
-    select a.* from [T] a inner join temp on a.patientId = temp.id
+    select a.* from [T] a inner join temp on a.patientId = temp.s_code
 )
 select * from temp
 ```
