@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/数据库/【SQL SERVER】递归查询.md",
+                "file": "草稿纸.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/数据库/【SQL SERVER】递归查询.md",
+                "file": "草稿纸.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/数据库/【SQL SERVER】递归查询.md",
+                "file": "草稿纸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/数据库/【SQL SERVER】递归查询.md"
+                "file": "草稿纸.md"
               }
             }
           }
@@ -148,12 +148,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "5c728c71145cff9d",
+  "active": "56fe59ecb5c4868a",
   "lastOpenFiles": [
     "未命名.canvas",
+    "IT/数据库/【SQL SERVER】递归查询.md",
+    "2023 癸卯兔/手记/03.15 二月廿四.md",
     "阅读/寻觅意义.md",
     "IT/NET/IOC控制反转-依赖注入.md",
-    "IT/数据库/【SQL SERVER】递归查询.md",
     "草稿纸.md",
     "IT/书.md",
     "IT/网站.md",
@@ -181,7 +182,6 @@
     "阅读/网络收集/资本主义的比喻.md",
     "阅读/网络收集/萨古鲁：吸引力法则真的有效吗？.md",
     "阅读/网络收集/知乎",
-    "阅读/网络收集/漫画 无罪之城.md",
     "阅读/网络收集/assets",
     "阅读/道德经",
     "阅读/网络收集",
