@@ -58,9 +58,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec8d0c5de58ca556",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "暂未分类/2020.11.12.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3052fe151c5e8ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "暂未分类/2020.10.31.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -126,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2018 戊戌狗/下年 01.09.md",
+                "file": "暂未分类/2020.10.31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2018 戊戌狗/下年 01.09.md",
+                "file": "暂未分类/2020.10.31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2018 戊戌狗/下年 01.09.md"
+                "file": "暂未分类/2020.10.31.md"
               }
             }
           }
@@ -188,10 +214,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "56d7d4b057ff9fc4",
+  "active": "5c728c71145cff9d",
   "lastOpenFiles": [
-    "2021 辛丑牛/06.27 四月廿七.md",
+    "2020",
+    "暂未分类/2020.11.12.md",
+    "暂未分类/2020.10.31.md",
     "2018 戊戌狗/下年 01.09.md",
+    "暂未分类",
+    "2021 辛丑牛/06.27 四月廿七.md",
     "2019 乙亥猪/02.08 正月廿四.md",
     "2019 乙亥猪/02.25 正月廿一.md",
     "2019 乙亥猪/02.22 正月十八.md",
@@ -219,9 +249,6 @@
     "阅读/网络收集/知乎/assets/男生会在意女孩家境吗01.jpeg",
     "阅读/网络收集/知乎/assets/男生会在意女孩家境吗00.jpeg",
     "阅读/网络收集/知乎/秦始皇是暴君吗？ - 知乎.md",
-    "阅读/网络收集/知乎/知识诅咒.md",
-    "阅读/网络收集/知乎/男生会在意女孩家境吗.md",
-    "阅读/网络收集/知乎/有哪些20岁年轻人越早知道越好的道理？ - 知乎.md",
     "阅读/网络收集/知乎/assets",
     "阅读/网络收集/assets/漫画-无罪之城00.jpg",
     "阅读/网络收集/知乎",
@@ -229,7 +256,6 @@
     "阅读/道德经",
     "阅读/网络收集",
     "阅读",
-    "语言",
     "阅读/网络收集/assets/漫画-无罪之城00-1678022227017-11.jpg",
     "阅读/网络收集/assets/漫画-无罪之城00-1678022218763-9.jpg",
     "阅读/网络收集/assets/漫画-无罪之城00-1678022126201-7.jpg",
