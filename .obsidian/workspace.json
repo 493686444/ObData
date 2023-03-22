@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2019 乙亥猪/02.25 正月廿一.md",
+                "file": "IT/面试/面试时要问清楚的问题.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,8 +85,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "暂未分类/2020.10.31.md",
+                "file": "IT/面试/面试时要问清楚的问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "暂未分类/2020.10.31.md",
+                "file": "IT/面试/面试时要问清楚的问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "暂未分类/2020.10.31.md"
+                "file": "IT/面试/面试时要问清楚的问题.md"
               }
             }
           }
@@ -214,8 +213,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "5c728c71145cff9d",
+  "active": "8308469211a82c16",
   "lastOpenFiles": [
+    "2019 乙亥猪/02.25 正月廿一.md",
     "2020 庚子鼠",
     "暂未分类/2020.11.12.md",
     "暂未分类/2020.10.31.md",
@@ -223,7 +223,6 @@
     "暂未分类",
     "2021 辛丑牛/06.27 四月廿七.md",
     "2019 乙亥猪/02.08 正月廿四.md",
-    "2019 乙亥猪/02.25 正月廿一.md",
     "2019 乙亥猪/02.22 正月十八.md",
     "2018 戊戌狗/下年 01.18 腊月十三.md",
     "2018 戊戌狗",
@@ -255,7 +254,6 @@
     "阅读/网络收集/assets",
     "阅读/道德经",
     "阅读/网络收集",
-    "阅读",
     "阅读/网络收集/assets/漫画-无罪之城00-1678022227017-11.jpg",
     "阅读/网络收集/assets/漫画-无罪之城00-1678022218763-9.jpg",
     "阅读/网络收集/assets/漫画-无罪之城00-1678022126201-7.jpg",
