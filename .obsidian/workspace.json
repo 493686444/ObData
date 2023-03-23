@@ -4,85 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4328c2d38f958d4d",
+        "id": "f4cf537d43cbab4b",
         "type": "tabs",
         "children": [
           {
-            "id": "8308469211a82c16",
+            "id": "64a4877602008935",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/面试/面试时要问清楚的问题.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd997ddf9f704bd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2019 乙亥猪/02.22 正月十八.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fd6e2d65732f33f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2019 乙亥猪/02.08 正月廿四.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56d7d4b057ff9fc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2018 戊戌狗/下年 01.09.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec8d0c5de58ca556",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "暂未分类/2020.11.12.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3052fe151c5e8ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "暂未分类/2020.10.31.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -151,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/面试/面试时要问清楚的问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/面试/面试时要问清楚的问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "IT/面试/面试时要问清楚的问题.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -213,8 +139,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "8308469211a82c16",
+  "active": "64a4877602008935",
   "lastOpenFiles": [
+    "IT/JS_patientId转children.md",
+    "IT/NET/IOC控制反转-依赖注入.md",
+    "IT/未命名.md",
+    "IT/NET/数据持久化/ADO.NET/问题.md",
+    "IT/面试/面试时要问清楚的问题.md",
     "2019 乙亥猪/02.25 正月廿一.md",
     "2020 庚子鼠",
     "暂未分类/2020.11.12.md",
@@ -226,20 +157,17 @@
     "2019 乙亥猪/02.22 正月十八.md",
     "2018 戊戌狗/下年 01.18 腊月十三.md",
     "2018 戊戌狗",
-    "IT/面试/面试时要问清楚的问题.md",
     "草稿纸.md",
     "IT/面试",
     "未命名.canvas",
     "IT/数据库/【SQL SERVER】递归查询.md",
     "2023 癸卯兔/手记/03.15 二月廿四.md",
     "阅读/寻觅意义.md",
-    "IT/NET/IOC控制反转-依赖注入.md",
     "IT/书.md",
     "IT/网站.md",
     "IT/DNF搭建.md",
     "IT/HTTPS.md",
     "IT/sql执行顺序.md",
-    "IT/NET/数据持久化/ADO.NET/问题.md",
     "IT/数据库/home.md",
     "主页/账号.md",
     "主页/核心.md",
@@ -247,7 +175,6 @@
     "主页",
     "阅读/网络收集/知乎/assets/男生会在意女孩家境吗01.jpeg",
     "阅读/网络收集/知乎/assets/男生会在意女孩家境吗00.jpeg",
-    "阅读/网络收集/知乎/秦始皇是暴君吗？ - 知乎.md",
     "阅读/网络收集/知乎/assets",
     "阅读/网络收集/assets/漫画-无罪之城00.jpg",
     "阅读/网络收集/知乎",
