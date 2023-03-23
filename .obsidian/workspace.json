@@ -4,63 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7a2c8aa9d7dd7360",
+        "id": "cea0d16dbc93e291",
         "type": "tabs",
         "children": [
           {
-            "id": "db34760bb2f1c934",
+            "id": "63915733d592a407",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "主页/未来想做的事.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86aa44d55809888c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2020 庚子鼠/02.21.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b62d4dd5e83c122",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2020 庚子鼠/02.20.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71c2fd4a51140d98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2020 庚子鼠/02.20.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
