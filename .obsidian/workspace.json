@@ -11,8 +11,13 @@
             "id": "63915733d592a407",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2020 庚子鼠/02.17.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "主页/未来想做的事.md",
+                "file": "2020 庚子鼠/02.17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "主页/未来想做的事.md",
+                "file": "2020 庚子鼠/02.17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "主页/未来想做的事.md"
+                "file": "2020 庚子鼠/02.17.md"
               }
             }
           }
