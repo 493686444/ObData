@@ -4,18 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "f4cf537d43cbab4b",
+        "id": "7a2c8aa9d7dd7360",
         "type": "tabs",
         "children": [
           {
-            "id": "64a4877602008935",
+            "id": "7463b6a7cc95a2e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2020 庚子鼠/04.07.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6d05ae5c55ba391",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2020 庚子鼠/未命名.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2020 庚子鼠/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2020 庚子鼠/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2020 庚子鼠/未命名.md"
+              }
             }
           }
         ]
@@ -139,8 +162,18 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "64a4877602008935",
+  "active": "c6d05ae5c55ba391",
   "lastOpenFiles": [
+    "2020 庚子鼠/04.07.md",
+    "2020 庚子鼠/未命名.md",
+    "2020 庚子鼠/04.20.md",
+    "2020 庚子鼠/04.22.md",
+    "2020 庚子鼠/05.08.md",
+    "2020 庚子鼠/05.30.md",
+    "2020 庚子鼠/06.11.md",
+    "2020 庚子鼠/06.23.md",
+    "2020 庚子鼠/06.29.md",
+    "2020 庚子鼠/07.08.md",
     "IT/JS_patientId转children.md",
     "IT/NET/IOC控制反转-依赖注入.md",
     "IT/未命名.md",
@@ -162,16 +195,6 @@
     "未命名.canvas",
     "IT/数据库/【SQL SERVER】递归查询.md",
     "2023 癸卯兔/手记/03.15 二月廿四.md",
-    "阅读/寻觅意义.md",
-    "IT/书.md",
-    "IT/网站.md",
-    "IT/DNF搭建.md",
-    "IT/HTTPS.md",
-    "IT/sql执行顺序.md",
-    "IT/数据库/home.md",
-    "主页/账号.md",
-    "主页/核心.md",
-    "主页/未来想做的事.md",
     "主页",
     "阅读/网络收集/知乎/assets/男生会在意女孩家境吗01.jpeg",
     "阅读/网络收集/知乎/assets/男生会在意女孩家境吗00.jpeg",
