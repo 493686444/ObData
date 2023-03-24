@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/网站.md",
+                "file": "草稿纸.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/网站.md",
+                "file": "草稿纸.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/网站.md",
+                "file": "草稿纸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/网站.md"
+                "file": "草稿纸.md"
               }
             }
           }
@@ -149,8 +149,9 @@
       "obsidian-weread-plugin:Weread": false
     }
   },
-  "active": "63915733d592a407",
+  "active": "5c728c71145cff9d",
   "lastOpenFiles": [
+    "IT/网站.md",
     "草稿纸.md",
     "_notion-like-tables/table-id-3iceR1.md",
     "_notion-like-tables",
@@ -180,7 +181,6 @@
     "2020 庚子鼠/03.20.md",
     "2020 庚子鼠/03.26.md",
     "2020 庚子鼠/03.30.md",
-    "2020 庚子鼠/04.07.md",
     "2020 庚子鼠",
     "暂未分类",
     "2018 戊戌狗",
