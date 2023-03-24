@@ -4,23 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "b20b55b21513a6b1",
-        "type": "tabs",
+        "id": "114769aa72845b20",
+        "type": "split",
         "children": [
           {
-            "id": "0ed102cd04860170",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2019 乙亥猪/09.23.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+            "id": "b20b55b21513a6b1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0ed102cd04860170",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2019 乙亥猪/09.23.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "9ba7fd85e5e2f083",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "326cdc4c496e1eb8",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
