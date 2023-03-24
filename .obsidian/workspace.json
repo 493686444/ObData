@@ -4,39 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "114769aa72845b20",
-        "type": "split",
+        "id": "62abb4539878abed",
+        "type": "tabs",
         "children": [
           {
-            "id": "b20b55b21513a6b1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0ed102cd04860170",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
+            "id": "f9abbb5d3fe09bc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2019 乙亥猪/09.23.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "9ba7fd85e5e2f083",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "326cdc4c496e1eb8",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,13 +86,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2019 乙亥猪/09.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -118,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2019 乙亥猪/09.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2019 乙亥猪/09.23.md"
+              }
             }
           },
           {
@@ -150,12 +138,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -171,10 +158,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0ed102cd04860170",
+  "active": "f9abbb5d3fe09bc7",
   "lastOpenFiles": [
+    "2019 乙亥猪/assets/你知道答案吗？.png",
     "2019 乙亥猪/09.23.md",
-    "2019 乙亥猪/assets/2019.09.23.png",
+    "2019 乙亥猪/assets/大学认知世界进程.png",
     "2019 乙亥猪/assets/2019.09.23",
     "2019 乙亥猪/assets",
     "草稿纸.md",
@@ -217,7 +205,6 @@
     "阅读/网络收集/assets/漫画-无罪之城00-1678022218763-9.jpg",
     "阅读/网络收集/assets/漫画-无罪之城00-1678022126201-7.jpg",
     "阅读/网络收集/assets/漫画-无罪之城00-1678022120176-5.jpg",
-    "阅读/网络收集/assets/漫画-无罪之城00-1678022051282-3.jpg",
-    "阅读/网络收集/assets/漫画-无罪之城00 1.jpg"
+    "阅读/网络收集/assets/漫画-无罪之城00-1678022051282-3.jpg"
   ]
 }
