@@ -11,8 +11,13 @@
             "id": "ab7528b100639c9d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2017/12.06.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2017/12.06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2017/12.06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2017/12.06.md"
+              }
             }
           },
           {
@@ -151,6 +160,8 @@
   },
   "active": "ab7528b100639c9d",
   "lastOpenFiles": [
+    "2017/12.06.md",
+    "2017",
     "2018 戊戌狗/12.03.md",
     "2018 戊戌狗/12.22.md",
     "2019 乙亥猪/04.17.md",
@@ -181,7 +192,6 @@
     "2019 乙亥猪/assets/2019.09.23",
     "2019 乙亥猪/assets",
     "草稿纸.md",
-    "2019 乙亥猪/10.12.md",
     "_notion-like-tables",
     "微信读书笔记",
     "2020 庚子鼠/未命名",
@@ -189,7 +199,6 @@
     "2020 庚子鼠",
     "暂未分类",
     "2018 戊戌狗",
-    "IT/面试",
     "未命名.canvas",
     "阅读/网络收集/知乎/assets/男生会在意女孩家境吗01.jpeg",
     "阅读/网络收集/知乎/assets/男生会在意女孩家境吗00.jpeg",
