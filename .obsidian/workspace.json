@@ -4,18 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "e492f5ded3d94d08",
+        "id": "1db8c7f52179b072",
         "type": "tabs",
         "children": [
           {
-            "id": "8dc64a6465b8a130",
+            "id": "0afa99ede49622fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2020 庚子鼠/02.16.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fce54130c6125301",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2020 庚子鼠/02.15.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92a113ab328ce8a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2020 庚子鼠/02.07.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2020 庚子鼠/02.07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2020 庚子鼠/02.07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2020 庚子鼠/02.07.md"
+              }
             }
           },
           {
@@ -150,8 +186,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5c728c71145cff9d",
+  "active": "92a113ab328ce8a7",
   "lastOpenFiles": [
+    "2020 庚子鼠/02.15.md",
+    "2020 庚子鼠/02.07.md",
+    "2020 庚子鼠/02.16.md",
+    "2020 庚子鼠/02.27.md",
+    "2020 庚子鼠/03.14.md",
+    "2020 庚子鼠/02.28.md",
+    "2020 庚子鼠/05.30.md",
+    "2020 庚子鼠/04.22.md",
+    "2020 庚子鼠/04.06.md",
+    "2020 庚子鼠/03.20.md",
+    "2020 庚子鼠/02.21.md",
+    "2020 庚子鼠/02.20.md",
+    "2020 庚子鼠/02.19.md",
+    "2020 庚子鼠/02.17.md",
     "微信读书笔记/认知觉醒：开启自我改变的原动力-周岭.md",
     "微信读书笔记/潜规则：中国历史中的真实游戏-吴思.md",
     "微信读书笔记/南怀瑾著作全收录-南怀瑾.md",
@@ -166,22 +216,8 @@
     "微信读书笔记/谁动了我的奶酪-斯宾塞·约翰逊.md",
     "微信读书笔记/特斯拉自传-尼古拉·特斯拉.md",
     "微信读书笔记",
-    "2020 庚子鼠/02.17.md",
-    "2023-03-23.md",
-    "2020 庚子鼠/02.20.md",
-    "2020 庚子鼠/02.19.md",
     "2020 庚子鼠/未命名",
-    "2020 庚子鼠/02.21.md",
-    "主页/未来想做的事.md",
-    "assets/2023.03.07.cs.md",
     "assets/2023.03.07.cs",
-    "2020 庚子鼠/02.27.md",
-    "2020 庚子鼠/02.28.md",
-    "2020 庚子鼠/04.06.md",
-    "2020 庚子鼠/03.14.md",
-    "2020 庚子鼠/03.20.md",
-    "2020 庚子鼠/03.26.md",
-    "2020 庚子鼠/03.30.md",
     "2020 庚子鼠",
     "暂未分类",
     "2018 戊戌狗",
