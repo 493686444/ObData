@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "62d96c2d265ca324",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2019 乙亥猪/12.10.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2019 乙亥猪/12.28.md",
+                "file": "2019 乙亥猪/12.10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2019 乙亥猪/12.28.md",
+                "file": "2019 乙亥猪/12.10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2019 乙亥猪/12.28.md"
+                "file": "2019 乙亥猪/12.10.md"
               }
             }
           },
@@ -199,10 +212,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bf01d4507c2d3adc",
+  "active": "62d96c2d265ca324",
   "lastOpenFiles": [
-    "2020 庚子鼠/02.07.md",
     "2019 乙亥猪/12.28.md",
+    "2019 乙亥猪/12.10.md",
+    "2020 庚子鼠/02.07.md",
     "2020 庚子鼠/02.15.md",
     "2020 庚子鼠/02.16.md",
     "2020 庚子鼠/02.27.md",
@@ -227,7 +241,6 @@
     "微信读书笔记/血酬定律：中国历史中的生存游戏-吴思.md",
     "微信读书笔记/乌合之众：大众心理研究-勒庞.md",
     "微信读书笔记/天堂的证据-埃本·亚历山大.md",
-    "微信读书笔记/谁动了我的奶酪-斯宾塞·约翰逊.md",
     "微信读书笔记",
     "2020 庚子鼠/未命名",
     "assets/2023.03.07.cs",
