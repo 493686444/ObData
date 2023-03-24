@@ -3,5 +3,6 @@
   "attachmentFolderPath": "./assets",
   "showLineNumber": true,
   "autoPairMarkdown": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": true
 }
