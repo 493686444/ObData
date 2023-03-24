@@ -1,4 +1,7 @@
 [
   "remotely-save",
-  "obsidian-git"
+  "obsidian-git",
+  "ProxyGithub",
+  "obsidian-weread-plugin",
+  "obsidian-zoom"
 ]

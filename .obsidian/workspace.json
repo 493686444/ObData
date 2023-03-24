@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "草稿纸.md",
+                "file": "IT/网站.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "草稿纸.md",
+                "file": "IT/网站.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "草稿纸.md",
+                "file": "IT/网站.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "草稿纸.md"
+                "file": "IT/网站.md"
               }
             }
           }
@@ -145,11 +145,25 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "obsidian-weread-plugin:Weread": false
     }
   },
   "active": "63915733d592a407",
   "lastOpenFiles": [
+    "草稿纸.md",
+    "_notion-like-tables/table-id-3iceR1.md",
+    "_notion-like-tables",
+    "微信读书笔记/寻觅意义-王德峰.md",
+    "微信读书笔记/血酬定律：中国历史中的生存游戏-吴思.md",
+    "微信读书笔记/认知觉醒：开启自我改变的原动力-周岭.md",
+    "微信读书笔记/潜规则：中国历史中的真实游戏-吴思.md",
+    "微信读书笔记/南怀瑾著作全收录-南怀瑾.md",
+    "微信读书笔记/乌合之众：大众心理研究-勒庞.md",
+    "微信读书笔记/天堂的证据-埃本·亚历山大.md",
+    "微信读书笔记/谁动了我的奶酪-斯宾塞·约翰逊.md",
+    "微信读书笔记/特斯拉自传-尼古拉·特斯拉.md",
+    "微信读书笔记",
     "2020 庚子鼠/02.17.md",
     "2023-03-23.md",
     "2020 庚子鼠/02.20.md",
@@ -167,17 +181,6 @@
     "2020 庚子鼠/03.26.md",
     "2020 庚子鼠/03.30.md",
     "2020 庚子鼠/04.07.md",
-    "2020 庚子鼠/04.20.md",
-    "2020 庚子鼠/04.22.md",
-    "2020 庚子鼠/05.08.md",
-    "2020 庚子鼠/05.30.md",
-    "2020 庚子鼠/06.11.md",
-    "2020 庚子鼠/06.23.md",
-    "2020 庚子鼠/06.29.md",
-    "2020 庚子鼠/07.08.md",
-    "IT/JS_patientId转children.md",
-    "IT/NET/IOC控制反转-依赖注入.md",
-    "IT/未命名.md",
     "2020 庚子鼠",
     "暂未分类",
     "2018 戊戌狗",
@@ -188,8 +191,6 @@
     "阅读/网络收集/知乎/assets/男生会在意女孩家境吗00.jpeg",
     "阅读/网络收集/知乎/assets",
     "阅读/网络收集/assets/漫画-无罪之城00.jpg",
-    "阅读/网络收集/知乎",
-    "阅读/网络收集/assets",
     "阅读/网络收集/assets/漫画-无罪之城00-1678022227017-11.jpg",
     "阅读/网络收集/assets/漫画-无罪之城00-1678022218763-9.jpg",
     "阅读/网络收集/assets/漫画-无罪之城00-1678022126201-7.jpg",
