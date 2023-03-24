@@ -129,8 +129,17 @@
                 "file": "草稿纸.md"
               }
             }
+          },
+          {
+            "id": "e337e8a91150fe88",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,10 +155,11 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "remotely-save:Remotely Save": false,
-      "obsidian-weread-plugin:Weread": false
+      "obsidian-weread-plugin:Weread": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5c728c71145cff9d",
+  "active": "f4a3a2505badb45b",
   "lastOpenFiles": [
     "IT/网站.md",
     "草稿纸.md",
