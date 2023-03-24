@@ -2,5 +2,6 @@
   "newLinkFormat": "relative",
   "attachmentFolderPath": "./assets",
   "showLineNumber": true,
-  "autoPairMarkdown": false
+  "autoPairMarkdown": true,
+  "showUnsupportedFiles": true
 }
