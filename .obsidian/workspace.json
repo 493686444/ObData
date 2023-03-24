@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "45cbce21c1304640",
+            "id": "0802a4bcbbc89ceb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2019 乙亥猪/09.23.md",
+                "file": "暂未分类/home.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2019 乙亥猪/09.23.md",
+                "file": "暂未分类/home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2019 乙亥猪/09.23.md",
+                "file": "暂未分类/home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2019 乙亥猪/09.23.md"
+                "file": "暂未分类/home.md"
               }
             }
           },
@@ -158,10 +158,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "45cbce21c1304640",
+  "active": "0802a4bcbbc89ceb",
   "lastOpenFiles": [
-    "assets.md",
+    "2019 乙亥猪/03.08.md",
+    "暂未分类/home.md",
+    "暂未分类/2019.04.14.md",
+    "暂未分类/2019.04.25.md",
+    "2019 乙亥猪/05.02.md",
+    "暂未分类/2019.07.16.md",
+    "暂未分类/2019.08.22.md",
+    "2019 乙亥猪/08.26.md",
+    "2019 乙亥猪/09.18.md",
     "2019 乙亥猪/09.23.md",
+    "assets.md",
     "2019 乙亥猪/assets/杀人案件中9成为熟人作案.png",
     "2019 乙亥猪/assets/你知道答案吗？.png",
     "2019 乙亥猪/assets/大学认知世界进程.png",
@@ -182,15 +191,6 @@
     "2019 乙亥猪/12.01.md",
     "2019 乙亥猪/12.09.md",
     "2019 乙亥猪/12.10.md",
-    "2019 乙亥猪/12.28.md",
-    "2020 庚子鼠/02.07.md",
-    "2020 庚子鼠/02.15.md",
-    "2020 庚子鼠/02.16.md",
-    "2020 庚子鼠/02.27.md",
-    "2020 庚子鼠/03.14.md",
-    "2020 庚子鼠/02.28.md",
-    "2020 庚子鼠/05.30.md",
-    "2020 庚子鼠/04.22.md",
     "_notion-like-tables",
     "微信读书笔记",
     "2020 庚子鼠/未命名",
