@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4d0430c3691b6e6a",
+            "id": "0e735900f1ce14a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2019 乙亥猪/11.15.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50a6115f8deb3d3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2019 乙亥猪/11.13.md",
+                "file": "2019 乙亥猪/10.18.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2019 乙亥猪/11.13.md",
+                "file": "2019 乙亥猪/10.18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2019 乙亥猪/11.13.md",
+                "file": "2019 乙亥猪/10.18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2019 乙亥猪/11.13.md"
+                "file": "2019 乙亥猪/10.18.md"
               }
             }
           },
@@ -173,10 +159,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50a6115f8deb3d3c",
+  "active": "0e735900f1ce14a6",
   "lastOpenFiles": [
-    "2019 乙亥猪/11.15.md",
+    "2019 乙亥猪/10.20.md",
+    "2019 乙亥猪/10.18.md",
+    "暂未分类/2019.10.31.md",
+    "暂未分类/2020.11.12.md",
+    "暂未分类/2020.10.31.md",
+    "2019 乙亥猪/11.03.md",
+    "2019 乙亥猪/11.07.md",
     "2019 乙亥猪/11.13.md",
+    "2019 乙亥猪/11.15.md",
     "2019 乙亥猪/11.26.md",
     "2019 乙亥猪/12.01.md",
     "2019 乙亥猪/12.09.md",
@@ -194,13 +187,6 @@
     "2020 庚子鼠/03.20.md",
     "2020 庚子鼠/02.21.md",
     "2020 庚子鼠/02.20.md",
-    "2020 庚子鼠/02.19.md",
-    "2020 庚子鼠/02.17.md",
-    "微信读书笔记/认知觉醒：开启自我改变的原动力-周岭.md",
-    "微信读书笔记/潜规则：中国历史中的真实游戏-吴思.md",
-    "微信读书笔记/南怀瑾著作全收录-南怀瑾.md",
-    "草稿纸.md",
-    "IT/网站.md",
     "_notion-like-tables",
     "微信读书笔记",
     "2020 庚子鼠/未命名",
