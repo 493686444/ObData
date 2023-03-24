@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0afa99ede49622fd",
+            "id": "e097f1dc5df523fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2020 庚子鼠/02.16.md",
+                "file": "2019 乙亥猪/12.09.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "fce54130c6125301",
+            "id": "725e95d3f743a62d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2020 庚子鼠/02.15.md",
+                "file": "2019 乙亥猪/12.01.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,38 +34,12 @@
             }
           },
           {
-            "id": "92a113ab328ce8a7",
+            "id": "4d0430c3691b6e6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2020 庚子鼠/02.07.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf01d4507c2d3adc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2019 乙亥猪/12.28.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62d96c2d265ca324",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2019 乙亥猪/12.10.md",
+                "file": "2019 乙亥猪/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2019 乙亥猪/12.10.md",
+                "file": "2019 乙亥猪/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2019 乙亥猪/12.10.md",
+                "file": "2019 乙亥猪/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2019 乙亥猪/12.10.md"
+                "file": "2019 乙亥猪/未命名.md"
               }
             }
           },
@@ -212,10 +186,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "62d96c2d265ca324",
+  "active": "4d0430c3691b6e6a",
   "lastOpenFiles": [
-    "2019 乙亥猪/12.28.md",
+    "2019 乙亥猪/12.01.md",
+    "2019 乙亥猪/未命名.md",
+    "2019 乙亥猪/12.09.md",
     "2019 乙亥猪/12.10.md",
+    "2019 乙亥猪/12.28.md",
     "2020 庚子鼠/02.07.md",
     "2020 庚子鼠/02.15.md",
     "2020 庚子鼠/02.16.md",
@@ -238,9 +215,6 @@
     "_notion-like-tables/table-id-3iceR1.md",
     "_notion-like-tables",
     "微信读书笔记/寻觅意义-王德峰.md",
-    "微信读书笔记/血酬定律：中国历史中的生存游戏-吴思.md",
-    "微信读书笔记/乌合之众：大众心理研究-勒庞.md",
-    "微信读书笔记/天堂的证据-埃本·亚历山大.md",
     "微信读书笔记",
     "2020 庚子鼠/未命名",
     "assets/2023.03.07.cs",
