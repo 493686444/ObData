@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "29bffbd87ddcef24",
+        "id": "9dfa60f27034b6ab",
         "type": "tabs",
         "children": [
           {
-            "id": "ab7528b100639c9d",
+            "id": "fd02a3f7b8210354",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2017/12.06.md",
+                "file": "2020 庚子鼠/09.18.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2017/12.06.md",
+                "file": "2020 庚子鼠/09.18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2017/12.06.md",
+                "file": "2020 庚子鼠/09.18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2017/12.06.md"
+                "file": "2020 庚子鼠/09.18.md"
               }
             }
           },
@@ -158,8 +158,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ab7528b100639c9d",
+  "active": "5c728c71145cff9d",
   "lastOpenFiles": [
+    "未命名",
+    "2020 庚子鼠/未命名.md",
+    "2020 庚子鼠/07.22.md",
+    "2020 庚子鼠/09.08.md",
+    "2020 庚子鼠/07.26.md",
+    "2020 庚子鼠/07.28.md",
+    "2020 庚子鼠/08.03.md",
+    "2020 庚子鼠/08.05.md",
+    "2020 庚子鼠/08.08.md",
+    "2020 庚子鼠/08.13.md",
+    "2020 庚子鼠/09.18.md",
+    "2020 庚子鼠/09.21.md",
     "2017/12.06.md",
     "2017",
     "2018 戊戌狗/12.03.md",
@@ -175,23 +187,11 @@
     "主页/核心.md",
     "主页/账号.md",
     "主页/未来想做的事.md",
-    "2020 庚子鼠/10.31.md",
-    "2019 乙亥猪/10.31.md",
-    "2019 乙亥猪/08.22.md",
-    "2019 乙亥猪/07.16.md",
-    "2019 乙亥猪/04.25.md",
-    "2019 乙亥猪/04.14.md",
-    "2019 乙亥猪/09.23.md",
     "2019 乙亥猪/assets/杀人案件中9成为熟人作案.png",
-    "2019 乙亥猪/05.02.md",
-    "2019 乙亥猪/08.26.md",
-    "2019 乙亥猪/09.18.md",
-    "assets.md",
     "2019 乙亥猪/assets/你知道答案吗？.png",
     "2019 乙亥猪/assets/大学认知世界进程.png",
     "2019 乙亥猪/assets/2019.09.23",
     "2019 乙亥猪/assets",
-    "草稿纸.md",
     "_notion-like-tables",
     "微信读书笔记",
     "2020 庚子鼠/未命名",
