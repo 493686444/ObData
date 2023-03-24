@@ -1,5 +1,6 @@
 {
   "newLinkFormat": "relative",
   "attachmentFolderPath": "./assets",
-  "showLineNumber": true
+  "showLineNumber": true,
+  "autoPairMarkdown": false
 }
