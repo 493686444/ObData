@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "62abb4539878abed",
+        "id": "82e47b9bedcf4e00",
         "type": "tabs",
         "children": [
           {
-            "id": "f9abbb5d3fe09bc7",
+            "id": "45cbce21c1304640",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -158,10 +158,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f9abbb5d3fe09bc7",
+  "active": "45cbce21c1304640",
   "lastOpenFiles": [
-    "2019 乙亥猪/assets/你知道答案吗？.png",
+    "assets.md",
     "2019 乙亥猪/09.23.md",
+    "2019 乙亥猪/assets/杀人案件中9成为熟人作案.png",
+    "2019 乙亥猪/assets/你知道答案吗？.png",
     "2019 乙亥猪/assets/大学认知世界进程.png",
     "2019 乙亥猪/assets/2019.09.23",
     "2019 乙亥猪/assets",
@@ -204,7 +206,6 @@
     "阅读/网络收集/assets/漫画-无罪之城00-1678022227017-11.jpg",
     "阅读/网络收集/assets/漫画-无罪之城00-1678022218763-9.jpg",
     "阅读/网络收集/assets/漫画-无罪之城00-1678022126201-7.jpg",
-    "阅读/网络收集/assets/漫画-无罪之城00-1678022120176-5.jpg",
-    "阅读/网络收集/assets/漫画-无罪之城00-1678022051282-3.jpg"
+    "阅读/网络收集/assets/漫画-无罪之城00-1678022120176-5.jpg"
   ]
 }
