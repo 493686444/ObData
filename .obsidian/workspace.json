@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "791aab2a96488f4b",
+        "id": "a5d0b592b557cfd6",
         "type": "tabs",
         "children": [
           {
-            "id": "97528bb33c8cb13a",
+            "id": "5816173efb4aa7ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2018 戊戌狗/05.03.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2018 戊戌狗/05.03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2018 戊戌狗/05.03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2018 戊戌狗/05.03.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,10 +149,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "97528bb33c8cb13a",
+  "active": "5816173efb4aa7ef",
   "lastOpenFiles": [
-    "2018 戊戌狗/05.26.md",
+    "2019 乙亥猪/02.02.md",
+    "2019 乙亥猪/未命名.md",
+    "2020 庚子鼠/06.22.md",
     "2018 戊戌狗/05.03.md",
+    "2018 戊戌狗/05.26.md",
     "2018 戊戌狗/05.28.md",
     "2018 戊戌狗/06.26.md",
     "2018 戊戌狗/07.01.md",
@@ -183,9 +177,6 @@
     "2020 庚子鼠/手记 我看见的真理2/02.04.md",
     "2020 庚子鼠/手记 我看见的真理2/05.09.md",
     "2020 庚子鼠/手记 我看见的真理2/05.20.md",
-    "2020 庚子鼠/手记 我看见的真理2/05.24.md",
-    "2020 庚子鼠/手记 我看见的真理2/05.25.md",
-    "2020 庚子鼠/手记 我看见的真理2/05.27.md",
     "2020 庚子鼠/手记 我看见的真理2",
     "未命名",
     "2017",
