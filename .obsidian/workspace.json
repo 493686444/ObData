@@ -104,6 +104,45 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "金融/商/思维.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ea39f6e7a16cb9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "金融/商/思维.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78bbdb58d61a0282",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "金融/商/自媒体.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a675ece543170a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "金融/商/未命名.md",
                 "mode": "source",
                 "backlinks": true,
@@ -112,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -250,15 +289,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "81813bd37f265a40",
+  "active": "1a675ece543170a5",
   "lastOpenFiles": [
-    "金融/商/训练游戏.md",
-    "金融/商/未命名.md",
-    "金融/商/思维.md",
     "金融/商/自媒体.md",
-    "金融/商/1234联盟 类似的机构，或者其背后的原理.md",
+    "金融/商/未命名.md",
+    "金融/商/训练游戏.md",
+    "金融/商/游戏.md",
+    "金融/商/home.md",
+    "金融/商/思维.md",
     "金融/商/人类的消费情况分为哪几种.md",
     "金融/商/客制化键盘.md",
+    "金融/商/可做商品的东西.md",
+    "金融/商/1234联盟 类似的机构，或者其背后的原理.md",
+    "2018 戊戌狗/12.09.md",
     "金融/boss上收集的一个招聘.md",
     "金融/商",
     "金融/赚钱的基本逻辑.md",
@@ -276,10 +319,6 @@
     "2020 庚子鼠/06.22.md",
     "2018 戊戌狗/05.03.md",
     "2018 戊戌狗/05.26.md",
-    "2018 戊戌狗/05.28.md",
-    "2018 戊戌狗/06.26.md",
-    "2018 戊戌狗/07.01.md",
-    "2018 戊戌狗/06.04.md",
     "2020 庚子鼠/手记 我看见的真理2",
     "未命名",
     "2017",
