@@ -4,23 +4,76 @@
     "type": "split",
     "children": [
       {
-        "id": "a5d0b592b557cfd6",
+        "id": "05d58c6e04666818",
         "type": "tabs",
         "children": [
           {
-            "id": "5816173efb4aa7ef",
+            "id": "5cebdb7a6351140f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2019 乙亥猪/12.28.md",
+                "file": "金融/boss上收集的一个招聘.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1bbbb7cc034a636",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "金融/商/客制化键盘.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5511dde47d541115",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "金融/商/人类的消费情况分为哪几种.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df6261d977a4475e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "金融/商/人类的消费情况分为哪几种.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "922888fcfd2acb28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "金融/商/思维.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -49,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "所缺",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +119,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2019 乙亥猪/12.28.md",
+                "file": "金融/商/思维.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2019 乙亥猪/12.28.md",
+                "file": "金融/商/思维.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2019 乙亥猪/12.28.md"
+                "file": "金融/商/思维.md"
               }
             }
           },
@@ -159,11 +211,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5816173efb4aa7ef",
+  "active": "922888fcfd2acb28",
   "lastOpenFiles": [
-    "2019 乙亥猪/assets/可见欲的解决方法.jpg",
+    "金融/商/1234联盟 类似的机构，或者其背后的原理.md",
+    "金融/商/人类的消费情况分为哪几种.md",
+    "金融/商/客制化键盘.md",
+    "金融/商/思维.md",
+    "金融/boss上收集的一个招聘.md",
+    "金融/商",
+    "金融/赚钱的基本逻辑.md",
+    "2019 乙亥猪/01.18.md",
+    "2019 乙亥猪/01.09.md",
     "2019 乙亥猪/02.02.md",
+    "2019 乙亥猪/02.08.md",
+    "2019 乙亥猪/02.22.md",
+    "2019 乙亥猪/02.25.md",
+    "2019 乙亥猪/03.27.md",
+    "2019 乙亥猪/11.10.md",
     "2019 乙亥猪/未命名.md",
+    "2019 乙亥猪/12.28.md",
+    "2019 乙亥猪/assets/可见欲的解决方法.jpg",
     "2020 庚子鼠/06.22.md",
     "2018 戊戌狗/05.03.md",
     "2018 戊戌狗/05.26.md",
@@ -174,19 +241,6 @@
     "2018 戊戌狗/07.04.md",
     "2018 戊戌狗/07.05.md",
     "2018 戊戌狗/07.08.md",
-    "2018 戊戌狗/10.07.md",
-    "2018 戊戌狗/10.08.md",
-    "2018 戊戌狗/10.15.md",
-    "2018 戊戌狗/10.26.md",
-    "2018 戊戌狗/10.27.md",
-    "2018 戊戌狗/12.15.md",
-    "2018 戊戌狗/12.17.md",
-    "2019 乙亥猪/04.13.md",
-    "2019 乙亥猪/11.29.md",
-    "2019 乙亥猪/12.16.md",
-    "2020 庚子鼠/手记 我看见的真理2/01.24.md",
-    "2020 庚子鼠/手记 我看见的真理2/02.04.md",
-    "2020 庚子鼠/手记 我看见的真理2/05.09.md",
     "2020 庚子鼠/手记 我看见的真理2",
     "未命名",
     "2017",
@@ -199,14 +253,12 @@
     "微信读书笔记",
     "assets/2023.03.07.cs",
     "2020 庚子鼠",
-    "暂未分类",
     "未命名.canvas",
     "阅读/网络收集/知乎/assets/男生会在意女孩家境吗01.jpeg",
     "阅读/网络收集/知乎/assets/男生会在意女孩家境吗00.jpeg",
     "阅读/网络收集/assets/漫画-无罪之城00.jpg",
     "阅读/网络收集/assets/漫画-无罪之城00-1678022227017-11.jpg",
     "阅读/网络收集/assets/漫画-无罪之城00-1678022218763-9.jpg",
-    "阅读/网络收集/assets/漫画-无罪之城00-1678022126201-7.jpg",
-    "阅读/网络收集/assets/漫画-无罪之城00-1678022120176-5.jpg"
+    "阅读/网络收集/assets/漫画-无罪之城00-1678022126201-7.jpg"
   ]
 }
