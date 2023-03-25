@@ -11,8 +11,13 @@
             "id": "5816173efb4aa7ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2019 乙亥猪/12.28.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "所缺",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2019 乙亥猪/12.28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2019 乙亥猪/12.28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2019 乙亥猪/12.28.md"
+              }
             }
           },
           {
@@ -151,6 +161,7 @@
   },
   "active": "5816173efb4aa7ef",
   "lastOpenFiles": [
+    "2019 乙亥猪/assets/可见欲的解决方法.jpg",
     "2019 乙亥猪/02.02.md",
     "2019 乙亥猪/未命名.md",
     "2020 庚子鼠/06.22.md",
@@ -176,7 +187,6 @@
     "2020 庚子鼠/手记 我看见的真理2/01.24.md",
     "2020 庚子鼠/手记 我看见的真理2/02.04.md",
     "2020 庚子鼠/手记 我看见的真理2/05.09.md",
-    "2020 庚子鼠/手记 我看见的真理2/05.20.md",
     "2020 庚子鼠/手记 我看见的真理2",
     "未命名",
     "2017",
