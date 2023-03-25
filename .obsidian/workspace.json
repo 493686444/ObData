@@ -97,9 +97,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7617ae97d973f317",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2018 戊戌狗/01.23.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e90ef2609c9ea68c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/资料.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -165,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "金融/商/sth.md",
+                "file": "IT/资料.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "金融/商/sth.md",
+                "file": "IT/资料.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "金融/商/sth.md"
+                "file": "IT/资料.md"
               }
             }
           },
@@ -237,10 +263,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2c37152031460573",
+  "active": "e90ef2609c9ea68c",
   "lastOpenFiles": [
-    "金融/商/思维.md",
+    "2018 戊戌狗/01.23.md",
+    "IT/资料.md",
     "金融/商/sth.md",
+    "金融/商/思维.md",
     "金融/商/财商.md",
     "金融/商/赚.md",
     "金融/商/供需关系分析.md",
@@ -264,8 +292,6 @@
     "金融/boss上收集的一个招聘.md",
     "金融/商",
     "金融/赚钱的基本逻辑.md",
-    "2019 乙亥猪/01.18.md",
-    "2019 乙亥猪/01.09.md",
     "2019 乙亥猪/assets/可见欲的解决方法.jpg",
     "2020 庚子鼠/手记 我看见的真理2",
     "未命名",
