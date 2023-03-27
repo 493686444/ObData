@@ -8,19 +8,137 @@
         "type": "tabs",
         "children": [
           {
-            "id": "699ac6f55faed753",
+            "id": "5bd7280a2f94c2f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022 壬寅虎/08.26 七月十一.md",
+                "file": "2018 戊戌狗/12.30.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8ae4dcb331402da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2018 戊戌狗/12.29.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84446caa82e5a1b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2018 戊戌狗/12.28.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3527123a8d16c4e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2018 戊戌狗/12.22.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32202e933694856b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2018 戊戌狗/12.21.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8fc8dfcaa037b44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2018 戊戌狗/12.20.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "346ae64aa111f44f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2018 戊戌狗/12.19.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "120f1b666a99eeb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2018 戊戌狗/12.18.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb2b9f45fe74e0ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2018 戊戌狗/12.09.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b45ee086d56ea37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2018 戊戌狗/12.08.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -86,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022 壬寅虎/08.26 七月十一.md",
+                "file": "2018 戊戌狗/12.08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022 壬寅虎/08.26 七月十一.md",
+                "file": "2018 戊戌狗/12.08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022 壬寅虎/08.26 七月十一.md"
+                "file": "2018 戊戌狗/12.08.md"
               }
             }
           },
@@ -158,34 +276,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "699ac6f55faed753",
+  "active": "5b45ee086d56ea37",
   "lastOpenFiles": [
-    "2018 戊戌狗/未命名 1.md",
-    "2018 戊戌狗/未命名.md",
-    "2021 辛丑牛/02.06 腊月廿六.md",
-    "IT/资料/网站.md",
-    "IT/资料",
-    "2018 戊戌狗/01.23.md",
-    "金融/商/sth.md",
-    "金融/商/思维.md",
-    "金融/商/财商.md",
-    "金融/商/赚.md",
-    "金融/商/供需关系分析.md",
-    "金融/商/通货膨胀.md",
-    "金融/商/有哪些可以通过网络挣钱的方法？.md",
-    "2018 戊戌狗/05.26.md",
-    "2018 戊戌狗/08.23.md",
-    "金融/商/训练游戏.md",
-    "2018 戊戌狗/11.18.md",
-    "2018 戊戌狗/12.06.md",
-    "金融/商/自媒体.md",
-    "金融/商/游戏.md",
-    "金融/商/home.md",
-    "金融/商/人类的消费情况分为哪几种.md",
-    "金融/商/客制化键盘.md",
-    "金融/商/可做商品的东西.md",
-    "金融/商/1234联盟 类似的机构，或者其背后的原理.md",
     "2018 戊戌狗/12.09.md",
+    "2018 戊戌狗/12.08.md",
+    "2018 戊戌狗/12.10.md",
+    "2018 戊戌狗/未命名 1.md",
+    "2018 戊戌狗/12.18.md",
+    "2018 戊戌狗/12.19.md",
+    "2018 戊戌狗/12.20.md",
+    "2018 戊戌狗/12.21.md",
+    "2018 戊戌狗/12.22.md",
+    "2018 戊戌狗/未命名.md",
+    "2018 戊戌狗/12.28.md",
+    "2018 戊戌狗/12.29.md",
+    "2018 戊戌狗/12.30.md",
+    "2019 乙亥猪/01.01.md",
+    "2019 乙亥猪/01.08.md",
+    "2019 乙亥猪/01.09.md",
+    "2019 乙亥猪/未命名 3.md",
+    "2019 乙亥猪/未命名 2.md",
+    "2019 乙亥猪/01.13.md",
+    "2019 乙亥猪/01.15.md",
+    "2019 乙亥猪/01.16.md",
+    "2019 乙亥猪/01.17.md",
+    "2019 乙亥猪/01.18.md",
+    "2019 乙亥猪/未命名.md",
+    "2019 乙亥猪/01.21.md",
+    "2019 乙亥猪/02.14.md",
+    "IT/资料",
     "金融/商",
     "2019 乙亥猪/assets/可见欲的解决方法.jpg",
     "2020 庚子鼠/手记 我看见的真理2",
