@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4f26a49c87ef185c",
+            "id": "9f32bf4c2cc60ff7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2018 戊戌狗/03.27.md",
+                "file": "2019 乙亥猪/教训/12.13.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "9c36d7f324047a4d",
+            "id": "bc628c8263d754ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2020 庚子鼠/07.25.md",
+                "file": "2019 乙亥猪/教训/11.23.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "e5898c3ca3a9b895",
+            "id": "52ea24502216354f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2020 庚子鼠/07.19.md",
+                "file": "2019 乙亥猪/教训/11.22.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "d4c5073d3f2f58fc",
+            "id": "d5149d371bfeefe0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2020 庚子鼠/07.10.md",
+                "file": "2019 乙亥猪/教训/11.23.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,12 +60,12 @@
             }
           },
           {
-            "id": "d2c879cd8ee628c3",
+            "id": "cebc6466d0cd0f95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2020 庚子鼠/07.09.md",
+                "file": "2019 乙亥猪/教训/11.16.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,12 +73,12 @@
             }
           },
           {
-            "id": "4026a98485ba5a1e",
+            "id": "5ba1472fa18e6a41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2020 庚子鼠/06.16.md",
+                "file": "2019 乙亥猪/教训/11.13.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,12 +86,12 @@
             }
           },
           {
-            "id": "e406a534d90fd537",
+            "id": "5d991e4d3fc12b91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2020 庚子鼠/04.15.md",
+                "file": "2019 乙亥猪/教训/09.01.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,12 +99,12 @@
             }
           },
           {
-            "id": "97a102feaee73609",
+            "id": "26d66304be00739c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2020 庚子鼠/03.30.md",
+                "file": "2019 乙亥猪/教训/02.20.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,12 +112,38 @@
             }
           },
           {
-            "id": "fc24976891a55063",
+            "id": "e016ad6e5b68066b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2019 乙亥猪/12.19.md",
+                "file": "2017/未命名 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f04a78e08cff5aa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2017/教训/07.01.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "555b45b760d41482",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2019 乙亥猪/06.26.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -191,7 +217,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2019 乙亥猪/12.19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +233,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2019 乙亥猪/12.19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,9 +254,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2019 乙亥猪/12.19.md"
-              }
+              "state": {}
             }
           },
           {
@@ -263,34 +285,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fc24976891a55063",
+  "active": "5c728c71145cff9d",
   "lastOpenFiles": [
-    "2020 庚子鼠/03.30.md",
+    "2019 乙亥猪/教训/11.23.md",
+    "2019 乙亥猪/教训/未命名.md",
+    "2019 乙亥猪/06.20.md",
+    "2019 乙亥猪/assets/2019.06.20.png",
+    "2019 乙亥猪/06.26.md",
+    "2017/教训/07.01.md",
+    "2017/未命名 1.md",
+    "2017/教训",
+    "2019 乙亥猪/教训/02.20.md",
+    "2019 乙亥猪/教训/09.01.md",
+    "2019 乙亥猪/教训/11.13.md",
+    "2019 乙亥猪/教训/assets/2019.11.13.jpg",
+    "2019 乙亥猪/教训/assets",
+    "2019 乙亥猪/教训/11.16.md",
+    "2019 乙亥猪/教训/11.22.md",
+    "2019 乙亥猪/教训/12.13.md",
+    "2019 乙亥猪/教训/12.27.md",
+    "2020 庚子鼠/教训/04.30.md",
+    "2019 乙亥猪/教训",
+    "2020 庚子鼠/教训/05.25.md",
+    "2020 庚子鼠/教训/06.24.md",
+    "2020 庚子鼠/教训/07.27.md",
+    "2020 庚子鼠/教训/12.02.md",
+    "2020 庚子鼠/未命名 1.md",
+    "2020 庚子鼠/教训",
     "2019 乙亥猪/12.19.md",
+    "2020 庚子鼠/03.30.md",
     "2020 庚子鼠/04.07.md",
     "2020 庚子鼠/未命名.md",
     "2020 庚子鼠/04.15.md",
     "2020 庚子鼠/06.16.md",
-    "2020 庚子鼠/07.09.md",
-    "2020 庚子鼠/07.10.md",
-    "2020 庚子鼠/07.19.md",
-    "2020 庚子鼠/07.25.md",
-    "2018 戊戌狗/03.27.md",
-    "2018 戊戌狗/03.22.md",
-    "2018 戊戌狗/02.05.md",
-    "2018 戊戌狗/未命名 14.md",
-    "2018 戊戌狗/01.07.md",
-    "2017/12.09.md",
-    "2017/未命名.md",
-    "2018 戊戌狗/04.02.md",
-    "2018 戊戌狗/04.03.md",
-    "2018 戊戌狗/04.04.md",
-    "2018 戊戌狗/04.09.md",
-    "2018 戊戌狗/04.11.md",
-    "2018 戊戌狗/04.14.md",
-    "2018 戊戌狗/04.15.md",
-    "2018 戊戌狗/未命名 13.md",
-    "2018 戊戌狗/04.18.md",
     "2018 戊戌狗/未命名",
     "IT/资料",
     "金融/商",
@@ -301,16 +328,10 @@
     "2019 乙亥猪/assets/杀人案件中9成为熟人作案.png",
     "2019 乙亥猪/assets/你知道答案吗？.png",
     "2019 乙亥猪/assets/大学认知世界进程.png",
-    "2019 乙亥猪/assets/2019.09.23",
-    "2019 乙亥猪/assets",
-    "_notion-like-tables",
-    "微信读书笔记",
     "未命名.canvas",
     "阅读/网络收集/知乎/assets/男生会在意女孩家境吗01.jpeg",
     "阅读/网络收集/知乎/assets/男生会在意女孩家境吗00.jpeg",
     "阅读/网络收集/assets/漫画-无罪之城00.jpg",
-    "阅读/网络收集/assets/漫画-无罪之城00-1678022227017-11.jpg",
-    "阅读/网络收集/assets/漫画-无罪之城00-1678022218763-9.jpg",
-    "阅读/网络收集/assets/漫画-无罪之城00-1678022126201-7.jpg"
+    "阅读/网络收集/assets/漫画-无罪之城00-1678022227017-11.jpg"
   ]
 }
