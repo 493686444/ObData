@@ -4,50 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d363c05373f1f9a6",
+        "id": "531e74d94b2648e6",
         "type": "tabs",
         "children": [
           {
-            "id": "83db7e416f7e2f34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2018 戊戌狗/10.17.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f0c5009d20773d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2018 戊戌狗/09.30.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd12dc8972c466fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2018 戊戌狗/08.02.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53c7230d27d4703e",
+            "id": "bbcd160c14857650",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -58,61 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "beccfe2b88c6f461",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2017/11.03.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ff9ccfe5e12cd54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2018 戊戌狗/11.07.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8edbbcf6f5160d14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2017/11.12.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ac62673d69e16b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2018 戊戌狗/10.26.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2018 戊戌狗/10.26.md",
+                "file": "2018 戊戌狗/07.26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2018 戊戌狗/10.26.md",
+                "file": "2018 戊戌狗/07.26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2018 戊戌狗/10.26.md"
+                "file": "2018 戊戌狗/07.26.md"
               }
             }
           },
@@ -250,19 +158,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2ac62673d69e16b0",
+  "active": "bbcd160c14857650",
   "lastOpenFiles": [
-    "2018 戊戌狗/10.26 1.md",
+    "2018 戊戌狗/08.02.md",
+    "2018 戊戌狗/09.30.md",
+    "2018 戊戌狗/10.17.md",
+    "2018 戊戌狗/未命名 11.md",
+    "2017/10.26.md",
+    "2018 戊戌狗/10.26.md",
+    "2017/12.26.md",
     "2017/11.12.md",
     "2017/12.01.md",
     "2018 戊戌狗/11.07.md",
     "2017/11.03.md",
     "2018 戊戌狗/未命名 10.md",
     "2018 戊戌狗/07.26.md",
-    "2018 戊戌狗/08.02.md",
     "2018 戊戌狗/未命名 9.md",
-    "2018 戊戌狗/09.30.md",
-    "2018 戊戌狗/10.17.md",
     "2018 戊戌狗/未命名 8.md",
     "2019 乙亥猪/10.17.md",
     "2017/10.17.md",
@@ -275,9 +186,6 @@
     "2019 乙亥猪/03.22.md",
     "2019 乙亥猪/04.04.md",
     "2019 乙亥猪/04.10.md",
-    "2019 乙亥猪/05.01.md",
-    "2019 乙亥猪/06.13.md",
-    "2019 乙亥猪/未命名 4.md",
     "2018 戊戌狗/未命名",
     "IT/资料",
     "金融/商",
