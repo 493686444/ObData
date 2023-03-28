@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1cf3c8ccfff1e00a",
+        "id": "710e786bda268632",
         "type": "tabs",
         "children": [
           {
-            "id": "610967c5a9058e88",
+            "id": "7d91306d91aae597",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "主页/账号.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "主页/账号.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "主页/账号.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "主页/账号.md"
+              }
             }
           },
           {
@@ -149,8 +158,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "610967c5a9058e88",
+  "active": "7d91306d91aae597",
   "lastOpenFiles": [
+    "主页/账号(旧).md",
+    "草稿纸.md",
+    "assets.md",
+    "未命名.md",
+    "2019 乙亥猪/10.31.md",
+    "暂未分类/home.md",
+    "2019 乙亥猪/07.16.md",
+    "娱乐/动漫观看进度.md",
     "2017/从荣耀手机转移过来的/未命名 166.md",
     "2017/从荣耀手机转移过来的/未命名 165.md",
     "2017/从荣耀手机转移过来的/未命名 164.md",
@@ -169,14 +186,6 @@
     "2017/从荣耀手机转移过来的/未命名 151.md",
     "2017/从荣耀手机转移过来的/未命名 150.md",
     "2017/从荣耀手机转移过来的/未命名 149.md",
-    "2017/从荣耀手机转移过来的/未命名 148.md",
-    "2017/从荣耀手机转移过来的/未命名 147.md",
-    "2017/从荣耀手机转移过来的/未命名 146.md",
-    "2017/从荣耀手机转移过来的/未命名 145.md",
-    "2017/从荣耀手机转移过来的/未命名 144.md",
-    "2017/从荣耀手机转移过来的/未命名 143.md",
-    "2017/从荣耀手机转移过来的/未命名 142.md",
-    "2017/从荣耀手机转移过来的/未命名 141.md",
     "2017/从荣耀手机转移过来的",
     "2018 戊戌狗/教训",
     "2019 乙亥猪/assets/2019.06.20.png",
