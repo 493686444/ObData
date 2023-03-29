@@ -11,11 +11,30 @@
             "id": "dc28d5d3b3a77569",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "阅读/0书单.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b43a1719443705c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/不成熟的父母.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "阅读/不成熟的父母.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "阅读/不成熟的父母.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "阅读/不成熟的父母.md"
+              }
             }
           },
           {
@@ -149,16 +172,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5c728c71145cff9d",
+  "active": "4b43a1719443705c",
   "lastOpenFiles": [
+    "阅读/未命名.md",
+    "阅读/笔记",
+    "阅读/智者.md",
+    "阅读/0书单.md",
+    "阅读/已读.md",
+    "2017/从华为手机转移过来的.md",
     "2017/未命名.md",
     "2018 戊戌狗/未命名 41.md",
     "2019 乙亥猪/未命名 1.md",
     "2019 乙亥猪/12.30.md",
-    "阅读/0书单.md",
     "阅读/assets/赚钱.jpg",
     "阅读/assets",
-    "阅读/已读.md",
     "2018 戊戌狗/11.23.md",
     "2017/12.08.md",
     "2017/12.09.md",
@@ -175,10 +202,6 @@
     "2017/12.23.md",
     "2017/未命名 7.md",
     "2017/12.25.md",
-    "2017/12.27.md",
-    "2017/12.28.md",
-    "2017/12.29.md",
-    "2017/12.30.md",
     "2019 乙亥猪/未命名",
     "2019 乙亥猪/assets/2019.11.22.png",
     "2017/从荣耀手机转移过来的",
@@ -190,7 +213,6 @@
     "2019 乙亥猪/教训",
     "2020 庚子鼠/教训",
     "IT/资料",
-    "金融/商",
     "2019 乙亥猪/assets/可见欲的解决方法.jpg",
     "2019 乙亥猪/assets/杀人案件中9成为熟人作案.png",
     "2019 乙亥猪/assets/你知道答案吗？.png",
