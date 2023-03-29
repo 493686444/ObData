@@ -4,63 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8552062f51136de8",
+        "id": "a394219952a6693b",
         "type": "tabs",
         "children": [
           {
-            "id": "59c5083781dd7c23",
+            "id": "aef4c14837cb774e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/名言警句/黑色的四叶草.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bfac2debfc80e90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/名言警句/黑色的四叶草.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01c9f753c340f526",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/名言警句/罗翔.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "494a88a8b3018673",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/名言警句/无罪之城.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读/名言警句/无罪之城.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读/名言警句/无罪之城.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "阅读/名言警句/无罪之城.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,19 +148,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5c728c71145cff9d",
+  "active": "aef4c14837cb774e",
   "lastOpenFiles": [
+    "阅读/名言警句/无罪之城.md",
+    "阅读/assets/无罪之城2.jpg",
+    "阅读/名言警句/黑色的四叶草.md",
+    "阅读/名言警句/罗翔.md",
     "阅读/笔记/自下而上.md",
     "阅读/笔记/原则.md",
     "阅读/笔记/欲罢不能.md",
     "阅读/笔记/英语初学释疑.md",
     "阅读/笔记/寻觅意义.md",
     "阅读/名言警句/血液(韩剧).md",
-    "阅读/名言警句/无罪之城.md",
     "阅读/笔记/血酬定律.md",
     "阅读/笔记/维特根斯坦.md",
-    "阅读/名言警句/黑色的四叶草.md",
-    "阅读/名言警句/罗翔.md",
     "阅读/名言警句/曾仕强：什么是真正的信仰？人活着到底需要怎样的信仰.md",
     "阅读/网络收集/变现.md",
     "阅读/名言警句/b站.md",
@@ -223,16 +175,14 @@
     "阅读/名言警句/关于老婆 结婚 开车.md",
     "阅读/名言警句",
     "阅读/未命名.md",
-    "阅读/笔记/assets/漫画-无罪之城00.jpg",
+    "阅读/assets/漫画-无罪之城00.jpg",
     "阅读/书单.md",
     "阅读/assets/赚钱.jpg",
-    "阅读/笔记/assets/无罪之城2.jpg",
-    "阅读/笔记/assets/无罪之城1.1.png",
-    "阅读/笔记/assets/无罪之城1.jpg",
-    "阅读/笔记/assets/无罪之城0.jpg",
+    "阅读/assets/无罪之城1.1.png",
+    "阅读/assets/无罪之城1.jpg",
+    "阅读/assets/无罪之城0.jpg",
     "阅读/已读.md",
-    "阅读/名言警句/萨古鲁：吸引力法则真的有效吗？.md",
-    "阅读/笔记/assets/无罪之城1.0.png",
+    "阅读/assets/无罪之城1.0.png",
     "阅读/笔记/assets",
     "阅读/笔记",
     "阅读/assets",
