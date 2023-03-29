@@ -8,19 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "24aa1ea6e271e499",
+            "id": "23635861e47fd1ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读/笔记/东京食尸鬼.md",
+                "file": "阅读/警句/《猎场》.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f55b316598b18115",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/警句/王健林.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96eb34a15528fbed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/警句/鲁迅.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4010ab9a64bde48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/笔记/《谁的大学不迷茫》.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -49,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "奇波拉五定律",
+                "query": "谁的大学不迷茫",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +106,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读/笔记/东京食尸鬼.md",
+                "file": "阅读/笔记/《谁的大学不迷茫》.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读/笔记/东京食尸鬼.md",
+                "file": "阅读/笔记/《谁的大学不迷茫》.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读/笔记/东京食尸鬼.md"
+                "file": "阅读/笔记/《谁的大学不迷茫》.md"
               }
             }
           },
@@ -158,36 +199,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "24aa1ea6e271e499",
+  "active": "e4010ab9a64bde48",
   "lastOpenFiles": [
-    "阅读/网络收集/穷人和富人的思想.md",
-    "阅读/笔记/东京食尸鬼.md",
+    "2017/从荣耀手机转移过来的/未命名 65.md",
+    "阅读/笔记/《谁的大学不迷茫》.md",
+    "阅读/书单3.md",
+    "阅读/警句/李敏鸿～大学生必做三件事.md",
     "阅读/警句/鲁迅.md",
     "2018 戊戌狗/04.29.md",
-    "2018 戊戌狗/未命名 6.md",
-    "阅读/警句/名言合集.md",
-    "阅读/网络收集/领导与乞丐.md",
-    "2018 戊戌狗/未命名 5.md",
-    "阅读/警句/论自卑-江尧宏.md",
-    "阅读/警句/奇波拉五定律.md",
+    "阅读/警句/尸鬼.md",
+    "阅读/警句/王健林.md",
+    "阅读/警句/《猎场》.md",
+    "阅读/警句/人间失格.md",
+    "阅读/警句/《来自新世界》.md",
+    "阅读/网络收集/杂集.md",
+    "阅读/网络收集/未知来源.md",
+    "阅读/警句/崔永元.md",
+    "阅读/警句/寒蝉鸣泣之时.md",
+    "阅读/笔记/富兰克林自传.md",
+    "阅读/网络收集/源于贴吧——终极奥义.md",
+    "阅读/警句/幻灵地狱.md",
+    "阅读/笔记/《千万不要学英语》.md",
+    "阅读/笔记/《你还在学英语吗》.md",
+    "阅读/警句/路德维希.维特根斯坦.md",
+    "阅读/网络收集/贴吧.md",
+    "阅读/笔记/我邦之呼吁.md",
+    "阅读/警句/巴曼尼的斯篇，关于神的论证.md",
+    "阅读/网络收集/为什么优秀的人不爱发朋友圈？.md",
+    "阅读/警句/勒内·夏尔.md",
     "阅读/警句/assets/奇波拉五定律.jpeg",
     "阅读/警句/assets",
-    "阅读/警句/俾斯麦.md",
-    "阅读/警句/乘联会秘书长饶达.md",
-    "阅读/警句/杨绛.md",
-    "阅读/警句/没有心跳的少女.md",
-    "阅读/笔记/把时间当作朋友.md",
-    "阅读/笔记/被禁止的历史.md",
-    "阅读/笔记/不成熟的父母 1.md",
-    "阅读/笔记/查拉图斯特拉如是说.md",
-    "阅读/笔记/不成熟的父母.md",
-    "阅读/笔记/改变.md",
-    "阅读/笔记/认知觉醒.md",
-    "阅读/笔记/维特根斯坦.md",
-    "阅读/笔记/寻觅意义.md",
-    "阅读/笔记/英语初学释疑.md",
-    "阅读/笔记/欲罢不能.md",
-    "阅读/笔记/原君.md",
     "阅读/作品",
     "阅读/感悟",
     "未命名.canvas",
