@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读/笔记/把时间当作朋友.md",
+                "file": "阅读/感悟/大话西游.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -75,12 +75,12 @@
             }
           },
           {
-            "id": "6923f513925ff517",
+            "id": "579aa608b0879253",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读/名言警句/大话西游.md",
+                "file": "阅读/感悟/动物农场.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +134,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读/名言警句/大话西游.md",
+                "file": "阅读/感悟/动物农场.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读/名言警句/大话西游.md",
+                "file": "阅读/感悟/动物农场.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读/名言警句/大话西游.md"
+                "file": "阅读/感悟/动物农场.md"
               }
             }
           },
@@ -226,10 +227,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6923f513925ff517",
+  "active": "4020680f50007e63",
   "lastOpenFiles": [
+    "阅读/感悟/大话西游.md",
+    "阅读/感悟/动物农场.md",
+    "阅读/未命名.md",
+    "阅读/感悟",
+    "阅读/未命名 1.md",
+    "阅读/书单2.md",
+    "阅读/书单3.md",
+    "阅读/名言警句/毁了一个人的4种方式.md",
     "阅读/笔记/把时间当作朋友.md",
-    "阅读/名言警句/大话西游.md",
     "未命名.canvas",
     "2018 戊戌狗/11.20.md",
     "阅读/名言警句/欢乐颂.md",
@@ -249,12 +257,6 @@
     "2018 戊戌狗/12.28.md",
     "2018 戊戌狗/未命名.md",
     "阅读/名言警句/易中天.md",
-    "阅读/名言警句/国王游戏.md",
-    "阅读/名言警句/罗翔.md",
-    "阅读/名言警句/曾仕强.md",
-    "阅读/名言警句/《回答》-北岛.md",
-    "阅读/名言警句/尼古拉•特斯拉.md",
-    "阅读/笔记/原君.md",
     "阅读/assets/无罪之城2.jpg",
     "阅读/名言警句",
     "阅读/assets/漫画-无罪之城00.jpg",
@@ -273,7 +275,6 @@
     "2019 乙亥猪/assets/2019.06.20.png",
     "2017/教训",
     "2019 乙亥猪/教训/assets/2019.11.13.jpg",
-    "2019 乙亥猪/教训/assets",
-    "2019 乙亥猪/教训"
+    "2019 乙亥猪/教训/assets"
   ]
 }
