@@ -201,9 +201,74 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8408b8363aea6306",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/警句/论自卑-江尧宏.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6392b54e933b754",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2018 戊戌狗/04.29.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a473ad8575c0710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/网络收集/领导与乞丐.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c780363f43f4e95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/警句/名言合集.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22cc104b296f4658",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2018 戊戌狗/04.29.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -269,7 +334,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读/警句/奇波拉五定律.md",
+                "file": "2018 戊戌狗/04.29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +351,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读/警句/奇波拉五定律.md",
+                "file": "2018 戊戌狗/04.29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -309,7 +374,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读/警句/奇波拉五定律.md"
+                "file": "2018 戊戌狗/04.29.md"
               }
             }
           },
@@ -341,8 +406,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5c728c71145cff9d",
+  "active": "22cc104b296f4658",
   "lastOpenFiles": [
+    "2018 戊戌狗/未命名 6.md",
+    "阅读/警句/名言合集.md",
+    "阅读/网络收集/领导与乞丐.md",
+    "2018 戊戌狗/04.29.md",
+    "2018 戊戌狗/未命名 5.md",
+    "阅读/警句/论自卑-江尧宏.md",
+    "阅读/警句/奇波拉五定律.md",
+    "阅读/警句/assets/奇波拉五定律.jpeg",
+    "阅读/警句/assets",
     "阅读/警句/俾斯麦.md",
     "阅读/警句/乘联会秘书长饶达.md",
     "阅读/警句/杨绛.md",
@@ -362,13 +436,6 @@
     "阅读/笔记/原则.md",
     "阅读/笔记/穷爸爸富爸爸.md",
     "阅读/笔记/复活的鲁鲁修.md",
-    "阅读/网络收集/关于老婆 结婚 开车.md",
-    "阅读/网络收集/b站.md",
-    "阅读/网络收集/资本主义的比喻.md",
-    "阅读/网络收集/未知来源.md",
-    "阅读/网络收集/未死先亡.md",
-    "阅读/网络收集/人们会在什么情况下切实感受到别人的愚蠢？.md",
-    "阅读/网络收集/某公众号.md",
     "阅读/作品",
     "阅读/感悟",
     "未命名.canvas",
@@ -387,8 +454,6 @@
     "2019 乙亥猪/assets/2019.11.22.png",
     "2017/从荣耀手机转移过来的",
     "2018 戊戌狗/教训",
-    "2019 乙亥猪/assets/2019.06.20.png",
-    "2017/教训",
-    "2019 乙亥猪/教训/assets/2019.11.13.jpg"
+    "2019 乙亥猪/assets/2019.06.20.png"
   ]
 }
