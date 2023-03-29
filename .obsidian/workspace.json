@@ -84,9 +84,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ffa7a10b8cf6b388",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/笔记/英语初学释疑.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61696187472192e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/笔记/查拉图斯特拉如是说.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -152,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2018 戊戌狗/03.22.md",
+                "file": "阅读/笔记/查拉图斯特拉如是说.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2018 戊戌狗/03.22.md",
+                "file": "阅读/笔记/查拉图斯特拉如是说.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2018 戊戌狗/03.22.md"
+                "file": "阅读/笔记/查拉图斯特拉如是说.md"
               }
             }
           },
@@ -224,8 +250,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7c540461f30e2a12",
+  "active": "61696187472192e3",
   "lastOpenFiles": [
+    "阅读/笔记/认知觉醒.md",
+    "阅读/笔记/不成熟的父母 1.md",
+    "阅读/笔记/英语初学释疑.md",
+    "2018 戊戌狗/03.22.md",
     "2018 戊戌狗/03.02.md",
     "2018 戊戌狗/02.21.md",
     "2018 戊戌狗/08.14.md",
@@ -237,7 +267,6 @@
     "2018 戊戌狗/12.24.md",
     "2018 戊戌狗/09.22.md",
     "2018 戊戌狗/02.09.md",
-    "2018 戊戌狗/03.22.md",
     "2018 戊戌狗/06.10.md",
     "2018 戊戌狗/未命名 1.md",
     "2018 戊戌狗/06.22.md",
@@ -249,9 +278,6 @@
     "2018 戊戌狗/11.28.md",
     "2018 戊戌狗/12.06.md",
     "2018 戊戌狗/12.12.md",
-    "2018 戊戌狗/12.15.md",
-    "2019 乙亥猪/01.07.md",
-    "金融/公司.md",
     "阅读/笔记",
     "阅读/assets/赚钱.jpg",
     "阅读/assets",
