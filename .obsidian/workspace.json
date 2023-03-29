@@ -156,7 +156,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读/网络收集/奇波拉五定律.md",
+                "file": "阅读/警句/奇波拉五定律.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -169,7 +169,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读/警句/马云.md",
+                "file": "阅读/警句/没有心跳的少女.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5d9c65d87df8afb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/警句/杨绛.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a252ab5a1049bfa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/警句/奇波拉五定律.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -177,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -206,7 +232,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "奇波拉五定律",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -243,6 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "阅读/警句/奇波拉五定律.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,6 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "阅读/警句/奇波拉五定律.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +308,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "阅读/警句/奇波拉五定律.md"
+              }
             }
           },
           {
@@ -313,32 +343,33 @@
   },
   "active": "5c728c71145cff9d",
   "lastOpenFiles": [
-    "阅读/作品",
-    "阅读/警句/马云.md",
-    "阅读/作品.md",
-    "阅读/网络收集/奇波拉五定律.md",
-    "2018 戊戌狗/05.23.md",
-    "2018 戊戌狗/未命名 4.md",
-    "阅读/笔记/穷爸爸富爸爸.md",
-    "阅读/网络收集/东北历史.md",
-    "阅读/警句/培根随笔记.md",
+    "阅读/警句/俾斯麦.md",
+    "阅读/警句/乘联会秘书长饶达.md",
+    "阅读/警句/杨绛.md",
     "阅读/警句/没有心跳的少女.md",
-    "阅读/警句/张维迎.md",
+    "阅读/笔记/把时间当作朋友.md",
+    "阅读/笔记/被禁止的历史.md",
+    "阅读/笔记/不成熟的父母 1.md",
+    "阅读/笔记/查拉图斯特拉如是说.md",
+    "阅读/笔记/不成熟的父母.md",
+    "阅读/笔记/改变.md",
+    "阅读/笔记/认知觉醒.md",
+    "阅读/笔记/维特根斯坦.md",
+    "阅读/笔记/寻觅意义.md",
     "阅读/笔记/英语初学释疑.md",
-    "阅读/网络收集/人们会在什么情况下切实感受到别人的愚蠢？.md",
-    "2018 戊戌狗/06.11.md",
-    "2018 戊戌狗/未命名 3.md",
+    "阅读/笔记/欲罢不能.md",
+    "阅读/笔记/原君.md",
+    "阅读/笔记/原则.md",
+    "阅读/笔记/穷爸爸富爸爸.md",
+    "阅读/笔记/复活的鲁鲁修.md",
+    "阅读/网络收集/关于老婆 结婚 开车.md",
+    "阅读/网络收集/b站.md",
+    "阅读/网络收集/资本主义的比喻.md",
     "阅读/网络收集/未知来源.md",
-    "阅读/警句/寄生兽.md",
-    "阅读/警句/《科学》.md",
-    "阅读/警句/李健.md",
-    "2018 戊戌狗/06.25.md",
-    "2018 戊戌狗/未命名 2.md",
-    "阅读/警句/狂热分子-埃里克·霍弗.md",
-    "阅读/警句/微观经济学.md",
-    "2018 戊戌狗/07.17.md",
-    "2018 戊戌狗/07.18.md",
-    "2018 戊戌狗/未命名 1.md",
+    "阅读/网络收集/未死先亡.md",
+    "阅读/网络收集/人们会在什么情况下切实感受到别人的愚蠢？.md",
+    "阅读/网络收集/某公众号.md",
+    "阅读/作品",
     "阅读/感悟",
     "未命名.canvas",
     "阅读/assets/无罪之城2.jpg",
@@ -358,7 +389,6 @@
     "2018 戊戌狗/教训",
     "2019 乙亥猪/assets/2019.06.20.png",
     "2017/教训",
-    "2019 乙亥猪/教训/assets/2019.11.13.jpg",
-    "2019 乙亥猪/教训/assets"
+    "2019 乙亥猪/教训/assets/2019.11.13.jpg"
   ]
 }
