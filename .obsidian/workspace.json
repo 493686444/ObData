@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "a394219952a6693b",
+        "id": "7532e940cd60f783",
         "type": "tabs",
         "children": [
           {
-            "id": "5125ed548078507e",
+            "id": "d6fb15995c391a3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读/网络收集/井底之蛙的自白.md",
+                "file": "和未来说/预/2020.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fdaebe0b923ffaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "和未来说/预/2020.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "和未来说/预/2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "和未来说/预/2020.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "和未来说/预/2020.md"
+              }
             }
           },
           {
@@ -154,9 +172,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5c728c71145cff9d",
+  "active": "2fdaebe0b923ffaf",
   "lastOpenFiles": [
-    "和未来说/2018.md",
+    "和未来说/预/2019.md",
+    "和未来说/预/2020.md",
+    "2018 戊戌狗/未命名.md",
+    "2018 戊戌狗/12.27.md",
+    "2018 戊戌狗/未命名 7.md",
+    "和未来说/说/2018.md",
+    "未命名.canvas",
+    "和未来说/预",
+    "和未来说/说",
     "阅读/网络收集/井底之蛙的自白.md",
     "和未来说",
     "阅读/笔记/《谁的大学不迷茫》.md",
@@ -178,16 +204,10 @@
     "阅读/网络收集/源于贴吧——终极奥义.md",
     "阅读/警句/幻灵地狱.md",
     "阅读/笔记/《千万不要学英语》.md",
-    "阅读/笔记/《你还在学英语吗》.md",
-    "阅读/警句/路德维希.维特根斯坦.md",
-    "阅读/网络收集/贴吧.md",
-    "阅读/笔记/我邦之呼吁.md",
-    "阅读/警句/巴曼尼的斯篇，关于神的论证.md",
     "阅读/警句/assets/奇波拉五定律.jpeg",
     "阅读/警句/assets",
     "阅读/作品",
     "阅读/感悟",
-    "未命名.canvas",
     "阅读/assets/无罪之城2.jpg",
     "阅读/警句",
     "阅读/assets/漫画-无罪之城00.jpg",
@@ -199,9 +219,7 @@
     "阅读/笔记/assets",
     "阅读/笔记",
     "阅读/assets",
-    "2019 乙亥猪/未命名",
     "2019 乙亥猪/assets/2019.11.22.png",
-    "2017/从荣耀手机转移过来的",
     "2019 乙亥猪/assets/2019.06.20.png"
   ]
 }
