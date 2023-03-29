@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7532e940cd60f783",
+        "id": "2bf92592eccce638",
         "type": "tabs",
         "children": [
           {
-            "id": "d6fb15995c391a3f",
+            "id": "fd97f64947dec143",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "和未来说/预/2020.md",
+                "file": "和未来说/预/2018.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "2fdaebe0b923ffaf",
+            "id": "7bfb34aaef0d1788",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "和未来说/预/2020.md",
+                "file": "和未来说/预/2017.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "和未来说/预/2020.md",
+                "file": "和未来说/预/2017.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "和未来说/预/2020.md",
+                "file": "和未来说/预/2017.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "和未来说/预/2020.md"
+                "file": "和未来说/预/2017.md"
               }
             }
           },
@@ -172,11 +172,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2fdaebe0b923ffaf",
+  "active": "7bfb34aaef0d1788",
   "lastOpenFiles": [
+    "和未来说/预/2018.md",
+    "和未来说/预/2017.md",
+    "2018 戊戌狗/04.21.md",
+    "2018 戊戌狗/06.11 对感官感觉（解码）的胡乱猜想.md",
+    "2018 戊戌狗/未命名 1.md",
+    "2018 戊戌狗/06.11.md",
+    "2018 戊戌狗/06.15.md",
     "和未来说/预/2019.md",
     "和未来说/预/2020.md",
-    "2018 戊戌狗/未命名.md",
     "2018 戊戌狗/12.27.md",
     "2018 戊戌狗/未命名 7.md",
     "和未来说/说/2018.md",
@@ -198,12 +204,6 @@
     "阅读/警句/《来自新世界》.md",
     "阅读/网络收集/杂集.md",
     "阅读/网络收集/未知来源.md",
-    "阅读/警句/崔永元.md",
-    "阅读/警句/寒蝉鸣泣之时.md",
-    "阅读/笔记/富兰克林自传.md",
-    "阅读/网络收集/源于贴吧——终极奥义.md",
-    "阅读/警句/幻灵地狱.md",
-    "阅读/笔记/《千万不要学英语》.md",
     "阅读/警句/assets/奇波拉五定律.jpeg",
     "阅读/警句/assets",
     "阅读/作品",
