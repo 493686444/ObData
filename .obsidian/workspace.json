@@ -97,9 +97,152 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "06ddb02c3b81906f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/名言警句/罗翔.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "893c506c99a27847",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/名言警句/国王游戏.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55102a5ca71053f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/名言警句/易中天.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb044915130e2aec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2018 戊戌狗/12.28.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de74c324a73695d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/名言警句/爱因斯坦.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ad8be84e40c4155",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/名言警句/走马灯株式会社.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "015383c470238b3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/名言警句/三角草的春天.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1419bf233e43a94c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/笔记/少有人走的路.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c3d5a6abf4a3c14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/网络收集/克服接近陌生女孩的恐惧感.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "273e3d399b6042f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/网络收集/未命名 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea048745ad1c33c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/网络收集/知乎/小论自律-孙川峰.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -165,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读/名言警句/尼古拉•特斯拉.md",
+                "file": "阅读/网络收集/知乎/小论自律-孙川峰.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读/名言警句/尼古拉•特斯拉.md",
+                "file": "阅读/网络收集/知乎/小论自律-孙川峰.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +348,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读/名言警句/尼古拉•特斯拉.md"
+                "file": "阅读/网络收集/知乎/小论自律-孙川峰.md"
               }
             }
           },
@@ -237,35 +380,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "afe1116ff9b1643a",
+  "active": "ea048745ad1c33c7",
   "lastOpenFiles": [
-    "阅读/笔记/原君.md",
+    "阅读/名言警句/未命名.md",
+    "阅读/网络收集/知乎/小论自律-孙川峰.md",
+    "阅读/网络收集/未命名 1.md",
+    "阅读/网络收集/克服接近陌生女孩的恐惧感.md",
+    "阅读/笔记/少有人走的路.md",
+    "阅读/名言警句/三角草的春天.md",
+    "阅读/名言警句/走马灯株式会社.md",
+    "阅读/名言警句/爱因斯坦.md",
+    "2018 戊戌狗/12.28.md",
+    "2018 戊戌狗/未命名.md",
+    "阅读/名言警句/易中天.md",
+    "阅读/名言警句/国王游戏.md",
+    "阅读/名言警句/罗翔.md",
+    "阅读/名言警句/曾仕强.md",
+    "阅读/名言警句/《回答》-北岛.md",
     "阅读/名言警句/尼古拉•特斯拉.md",
+    "阅读/笔记/原君.md",
     "阅读/网络收集/知乎/孤独与优秀.md",
     "阅读/网络收集/b站.md",
     "阅读/网络收集/未命名.md",
     "阅读/网络收集/资本主义的比喻.md",
     "阅读/名言警句/南怀瑾.md",
-    "阅读/名言警句/曾仕强.md",
     "阅读/名言警句/曾仕强：什么是真正的信仰？人活着到底需要怎样的信仰.md",
     "2019 乙亥猪/10.23.md",
     "2019 乙亥猪/未命名 1.md",
     "阅读/名言警句/无罪之城.md",
     "阅读/assets/无罪之城2.jpg",
-    "阅读/名言警句/黑色的四叶草.md",
-    "阅读/名言警句/罗翔.md",
-    "阅读/笔记/自下而上.md",
-    "阅读/笔记/原则.md",
-    "阅读/笔记/欲罢不能.md",
-    "阅读/笔记/英语初学释疑.md",
-    "阅读/笔记/寻觅意义.md",
-    "阅读/名言警句/血液(韩剧).md",
-    "阅读/笔记/血酬定律.md",
-    "阅读/笔记/维特根斯坦.md",
-    "阅读/网络收集/变现.md",
-    "阅读/名言警句/朱光潜：我不能告诉你必读的书，只能告诉你不必读的书.md",
-    "阅读/名言警句/星学院.md",
-    "阅读/笔记/复活的鲁鲁修.md",
     "阅读/名言警句",
     "阅读/assets/漫画-无罪之城00.jpg",
     "阅读/assets/赚钱.jpg",
