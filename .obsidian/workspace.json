@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b1fc00fe80c38c8a",
+        "id": "a8f1ebbb36547001",
         "type": "tabs",
         "children": [
           {
-            "id": "dc28d5d3b3a77569",
+            "id": "345824550143235e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读/书单.md",
+                "file": "2018 戊戌狗/12.24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "4b43a1719443705c",
+            "id": "33eaf94c28a363be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读/笔记/自下而上.md",
+                "file": "2018 戊戌狗/11.16.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "b79349b4dd9bc873",
+            "id": "08602308d3fa0ab1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读/书单.md",
+                "file": "2018 戊戌狗/11.05.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "116ab912f8786b61",
+            "id": "6c7c986d8a6241ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读/书单1.md",
+                "file": "2018 戊戌狗/08.14.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,12 +60,12 @@
             }
           },
           {
-            "id": "fdf19ea894d4e335",
+            "id": "b842f0df51fc425b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读/书单2.md",
+                "file": "2018 戊戌狗/06.22.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,38 +73,12 @@
             }
           },
           {
-            "id": "0682023f6f7fb762",
+            "id": "9991c87f0db30450",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读/其它.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "478322c177d8fef1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "金融/公司.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16eebf56f9d6dc67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2018 戊戌狗/11.26.md",
+                "file": "2018 戊戌狗/06.10.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -178,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2018 戊戌狗/11.26.md",
+                "file": "2018 戊戌狗/06.10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2018 戊戌狗/11.26.md",
+                "file": "2018 戊戌狗/06.10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2018 戊戌狗/11.26.md"
+                "file": "2018 戊戌狗/06.10.md"
               }
             }
           },
@@ -250,13 +224,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "16eebf56f9d6dc67",
+  "active": "9991c87f0db30450",
   "lastOpenFiles": [
+    "2018 戊戌狗/未命名 1.md",
+    "2018 戊戌狗/06.22.md",
+    "2018 戊戌狗/08.14.md",
+    "2018 戊戌狗/08.17.md",
+    "2018 戊戌狗/10.12.md",
+    "2018 戊戌狗/10.14.md",
+    "2018 戊戌狗/未命名.md",
+    "2018 戊戌狗/11.05.md",
+    "2018 戊戌狗/11.16.md",
+    "2018 戊戌狗/12.24.md",
+    "2019 乙亥猪/09.16.md",
+    "2019 乙亥猪/09.07.md",
+    "2019 乙亥猪/09.22.md",
+    "2019 乙亥猪/未命名.md",
+    "2018 戊戌狗/11.26.md",
     "2018 戊戌狗/11.28.md",
     "2018 戊戌狗/12.06.md",
     "2018 戊戌狗/12.12.md",
     "2018 戊戌狗/12.15.md",
-    "2018 戊戌狗/未命名.md",
     "2019 乙亥猪/01.07.md",
     "金融/公司.md",
     "阅读/其它.md",
@@ -264,23 +252,9 @@
     "阅读/书单2.md",
     "阅读/书单1.md",
     "阅读/书单.md",
-    "阅读/笔记/自下而上.md",
-    "阅读/笔记/不成熟的父母.md",
     "阅读/笔记",
-    "阅读/智者.md",
-    "阅读/笔记/已读.md",
-    "2017/从华为手机转移过来的.md",
-    "2017/未命名.md",
-    "2018 戊戌狗/未命名 41.md",
-    "2019 乙亥猪/未命名 1.md",
-    "2019 乙亥猪/12.30.md",
     "阅读/assets/赚钱.jpg",
     "阅读/assets",
-    "2018 戊戌狗/11.23.md",
-    "2017/12.08.md",
-    "2017/12.09.md",
-    "2017/12.10.md",
-    "2017/12.12.md",
     "2019 乙亥猪/未命名",
     "2019 乙亥猪/assets/2019.11.22.png",
     "2017/从荣耀手机转移过来的",
