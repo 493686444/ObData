@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2018 戊戌狗/08.14.md",
+                "file": "2018 戊戌狗/03.22.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2018 戊戌狗/08.14.md",
+                "file": "2018 戊戌狗/03.22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2018 戊戌狗/08.14.md",
+                "file": "2018 戊戌狗/03.22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2018 戊戌狗/08.14.md"
+                "file": "2018 戊戌狗/03.22.md"
               }
             }
           },
@@ -226,6 +226,9 @@
   },
   "active": "7c540461f30e2a12",
   "lastOpenFiles": [
+    "2018 戊戌狗/03.02.md",
+    "2018 戊戌狗/02.21.md",
+    "2018 戊戌狗/08.14.md",
     "2018 戊戌狗/08.17.md",
     "2018 戊戌狗/10.12.md",
     "2018 戊戌狗/10.14.md",
@@ -238,7 +241,6 @@
     "2018 戊戌狗/06.10.md",
     "2018 戊戌狗/未命名 1.md",
     "2018 戊戌狗/06.22.md",
-    "2018 戊戌狗/08.14.md",
     "2019 乙亥猪/09.16.md",
     "2019 乙亥猪/09.07.md",
     "2019 乙亥猪/09.22.md",
@@ -250,8 +252,6 @@
     "2018 戊戌狗/12.15.md",
     "2019 乙亥猪/01.07.md",
     "金融/公司.md",
-    "阅读/其它.md",
-    "阅读/书单3.md",
     "阅读/笔记",
     "阅读/assets/赚钱.jpg",
     "阅读/assets",
