@@ -4,23 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "488a96ab0ab1ec43",
+        "id": "91db77076ec342ed",
         "type": "tabs",
         "children": [
           {
-            "id": "2457e20c8132d611",
+            "id": "383f1cfa925518ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2018 戊戌狗/08.02.md",
+                "file": "2018 戊戌狗/07.31.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4a54da5ec3017bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2018 戊戌狗/07.29.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "841aa9a8c5f703f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2018 戊戌狗/07.28.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2018 戊戌狗/08.02.md",
+                "file": "2018 戊戌狗/07.28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2018 戊戌狗/08.02.md",
+                "file": "2018 戊戌狗/07.28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2018 戊戌狗/08.02.md"
+                "file": "2018 戊戌狗/07.28.md"
               }
             }
           },
@@ -158,8 +185,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2457e20c8132d611",
+  "active": "841aa9a8c5f703f7",
   "lastOpenFiles": [
+    "2018 戊戌狗/07.29.md",
+    "2018 戊戌狗/07.28.md",
+    "2018 戊戌狗/07.30.md",
+    "2018 戊戌狗/未命名 17.md",
+    "2018 戊戌狗/07.31.md",
+    "2018 戊戌狗/08.02.md",
     "2018 戊戌狗/未命名 16.md",
     "2018 戊戌狗/08.03.md",
     "2018 戊戌狗/08.04.md",
@@ -180,12 +213,6 @@
     "2018 戊戌狗/08.21.md",
     "2018 戊戌狗/08.22.md",
     "2018 戊戌狗/08.23.md",
-    "2018 戊戌狗/未命名 14.md",
-    "2018 戊戌狗/08.24.md",
-    "2018 戊戌狗/08.25.md",
-    "2018 戊戌狗/08.26.md",
-    "2018 戊戌狗/未命名 13.md",
-    "2018 戊戌狗/08.27.md",
     "2019 乙亥猪/未命名",
     "2019 乙亥猪/assets/2019.11.22.png",
     "2017/从荣耀手机转移过来的",
