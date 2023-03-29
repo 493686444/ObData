@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "38486637b7324ec5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/笔记/无罪之城.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读/网络收集/关于老婆 结婚 开车.md",
+                "file": "阅读/笔记/无罪之城.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读/网络收集/关于老婆 结婚 开车.md",
+                "file": "阅读/笔记/无罪之城.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读/网络收集/关于老婆 结婚 开车.md"
+                "file": "阅读/笔记/无罪之城.md"
               }
             }
           },
@@ -198,10 +211,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "103d4d547822b2d7",
+  "active": "38486637b7324ec5",
   "lastOpenFiles": [
-    "2020 庚子鼠/04.26.md",
+    "阅读/笔记/assets/无罪之城2.jpg",
+    "阅读/笔记/assets/无罪之城1.jpg",
+    "阅读/笔记/assets/无罪之城0.jpg",
+    "阅读/笔记/assets",
     "阅读/网络收集/关于老婆 结婚 开车.md",
+    "阅读/笔记/无罪之城.md",
+    "2020 庚子鼠/04.26.md",
     "2020 庚子鼠/未命名.md",
     "阅读/笔记/维特根斯坦.md",
     "阅读/道德经/想法.md",
@@ -224,8 +242,6 @@
     "2018 戊戌狗/06.10.md",
     "2018 戊戌狗/未命名 1.md",
     "2018 戊戌狗/06.22.md",
-    "2019 乙亥猪/09.16.md",
-    "2019 乙亥猪/09.07.md",
     "阅读/笔记",
     "阅读/assets/赚钱.jpg",
     "阅读/assets",
@@ -239,13 +255,10 @@
     "2019 乙亥猪/教训/assets",
     "2019 乙亥猪/教训",
     "2020 庚子鼠/教训",
-    "IT/资料",
     "2019 乙亥猪/assets/可见欲的解决方法.jpg",
     "2019 乙亥猪/assets/杀人案件中9成为熟人作案.png",
     "2019 乙亥猪/assets/你知道答案吗？.png",
     "2019 乙亥猪/assets/大学认知世界进程.png",
-    "未命名.canvas",
-    "阅读/网络收集/知乎/assets/男生会在意女孩家境吗01.jpeg",
-    "阅读/网络收集/知乎/assets/男生会在意女孩家境吗00.jpeg"
+    "未命名.canvas"
   ]
 }
