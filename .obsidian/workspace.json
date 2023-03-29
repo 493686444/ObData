@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "eca888e94eb2926d",
+        "id": "8552062f51136de8",
         "type": "tabs",
         "children": [
           {
-            "id": "16de59d7721f80f0",
+            "id": "59c5083781dd7c23",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "阅读/笔记/复活的鲁鲁修.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "阅读/笔记/复活的鲁鲁修.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "阅读/笔记/复活的鲁鲁修.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "阅读/笔记/复活的鲁鲁修.md"
+              }
             }
           },
           {
@@ -148,10 +157,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "16de59d7721f80f0",
+  "active": "5c728c71145cff9d",
   "lastOpenFiles": [
-    "阅读/网络收集/assets/漫画-无罪之城00.jpg",
     "阅读/笔记/无罪之城.md",
+    "阅读/笔记/assets/漫画-无罪之城00.jpg",
     "阅读/书单.md",
     "阅读/assets/赚钱.jpg",
     "阅读/笔记/assets/无罪之城2.jpg",
@@ -161,7 +170,7 @@
     "阅读/网络收集/漫画 无罪之城.md",
     "阅读/已读.md",
     "阅读/笔记/血液(韩剧).md",
-    "阅读/复活的鲁鲁修.md",
+    "阅读/笔记/复活的鲁鲁修.md",
     "阅读/网络收集/萨古鲁：吸引力法则真的有效吗？.md",
     "2020 庚子鼠/03.02.md",
     "阅读/网络收集/变现.md",
