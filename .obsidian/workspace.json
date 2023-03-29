@@ -71,9 +71,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a9a07c95c0614a1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/网络收集/某公众号.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a17535cd3741a7d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/感悟/少年犯之七人.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6bbbb7b79b2a076",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/感悟/非自然死亡.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -139,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读/名言警句/秦时明月.md",
+                "file": "阅读/感悟/非自然死亡.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读/名言警句/秦时明月.md",
+                "file": "阅读/感悟/非自然死亡.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读/名言警句/秦时明月.md"
+                "file": "阅读/感悟/非自然死亡.md"
               }
             }
           },
@@ -211,10 +250,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f91cac157bd5430c",
+  "active": "b6bbbb7b79b2a076",
   "lastOpenFiles": [
-    "阅读/名言警句/进击的巨人.md",
+    "阅读/感悟/少年犯之七人.md",
+    "阅读/感悟/非自然死亡.md",
+    "阅读/网络收集/某公众号.md",
     "阅读/名言警句/秦时明月.md",
+    "阅读/名言警句/进击的巨人.md",
     "阅读/名言警句/投资者—Z.md",
     "阅读/笔记/被禁止的历史.md",
     "阅读/网络收集/经济机器是如何运行的.md",
@@ -238,9 +280,6 @@
     "未命名.canvas",
     "2018 戊戌狗/11.20.md",
     "阅读/名言警句/欢乐颂.md",
-    "阅读/名言警句/奇特的一生.md",
-    "阅读/名言警句/中国惊奇先生.md",
-    "阅读/名言警句/龙樱.md",
     "阅读/assets/无罪之城2.jpg",
     "阅读/名言警句",
     "阅读/assets/漫画-无罪之城00.jpg",
