@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7b6dc25bfbe828a7",
+            "id": "db487624ebf86111",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读/网络收集/经济机器是如何运行的.md",
+                "file": "阅读/名言警句/李健.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,90 +21,12 @@
             }
           },
           {
-            "id": "f873596a87032be8",
+            "id": "7ce9367b924e368a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读/笔记/被禁止的历史.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "649ed90e1cc59b01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/名言警句/投资者—Z.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf2a6ebe0d9ad92b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/名言警句/进击的巨人.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f91cac157bd5430c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/名言警句/秦时明月.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9a07c95c0614a1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/网络收集/某公众号.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a17535cd3741a7d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/感悟/少年犯之七人.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6bbbb7b79b2a076",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/感悟/非自然死亡.md",
+                "file": "阅读/名言警句/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 218.5
   },
   "right": {
     "id": "cc66f16b2acf3ec9",
@@ -178,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读/感悟/非自然死亡.md",
+                "file": "阅读/名言警句/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读/感悟/非自然死亡.md",
+                "file": "阅读/名言警句/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读/感悟/非自然死亡.md"
+                "file": "阅读/名言警句/未命名.md"
               }
             }
           },
@@ -250,10 +172,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b6bbbb7b79b2a076",
+  "active": "7ce9367b924e368a",
   "lastOpenFiles": [
-    "阅读/感悟/少年犯之七人.md",
+    "阅读/名言警句/李健.md",
+    "阅读/名言警句/未命名.md",
+    "2018 戊戌狗/06.25.md",
+    "2018 戊戌狗/未命名 2.md",
+    "阅读/网络收集/未知来源.md",
+    "阅读/名言警句/狂热分子-埃里克·霍弗.md",
+    "阅读/名言警句/微观经济学.md",
+    "2018 戊戌狗/07.17.md",
+    "2018 戊戌狗/07.18.md",
+    "2018 戊戌狗/未命名 1.md",
+    "阅读/名言警句/100个基本.md",
+    "阅读/名言警句/勒内·夏尔.md",
     "阅读/感悟/非自然死亡.md",
+    "阅读/感悟/少年犯之七人.md",
     "阅读/网络收集/某公众号.md",
     "阅读/名言警句/秦时明月.md",
     "阅读/名言警句/进击的巨人.md",
@@ -261,25 +195,13 @@
     "阅读/笔记/被禁止的历史.md",
     "阅读/网络收集/经济机器是如何运行的.md",
     "阅读/名言警句/所罗门.md",
-    "阅读/网络收集/未知来源.md",
     "阅读/网络收集/未死先亡.md",
     "阅读/网络收集/b站.md",
     "阅读/名言警句/石国鹏.md",
     "阅读/名言警句/尼古拉•特斯拉.md",
     "阅读/名言警句/死囚乐园.md",
-    "阅读/笔记/人人都能学英语.md",
-    "阅读/感悟/动物农场.md",
-    "阅读/感悟/大话西游.md",
-    "阅读/未命名.md",
     "阅读/感悟",
-    "阅读/未命名 1.md",
-    "阅读/书单2.md",
-    "阅读/书单3.md",
-    "阅读/名言警句/毁了一个人的4种方式.md",
-    "阅读/笔记/把时间当作朋友.md",
     "未命名.canvas",
-    "2018 戊戌狗/11.20.md",
-    "阅读/名言警句/欢乐颂.md",
     "阅读/assets/无罪之城2.jpg",
     "阅读/名言警句",
     "阅读/assets/漫画-无罪之城00.jpg",
