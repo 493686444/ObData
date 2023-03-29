@@ -11,30 +11,11 @@
             "id": "dc28d5d3b3a77569",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2018 戊戌狗/11.23.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c0d14ab8799bb84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/已读.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读/已读.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读/已读.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "阅读/已读.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,11 +149,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7c0d14ab8799bb84",
+  "active": "5c728c71145cff9d",
   "lastOpenFiles": [
-    "2018 戊戌狗/11.23.md",
-    "阅读/已读.md",
+    "2017/未命名.md",
     "2018 戊戌狗/未命名 41.md",
+    "2019 乙亥猪/未命名 1.md",
+    "2019 乙亥猪/12.30.md",
+    "阅读/0书单.md",
+    "阅读/assets/赚钱.jpg",
+    "阅读/assets",
+    "阅读/已读.md",
+    "2018 戊戌狗/11.23.md",
     "2017/12.08.md",
     "2017/12.09.md",
     "2017/12.10.md",
@@ -196,10 +179,6 @@
     "2017/12.28.md",
     "2017/12.29.md",
     "2017/12.30.md",
-    "2018 戊戌狗/01.02.md",
-    "2018 戊戌狗/01.04.md",
-    "2018 戊戌狗/01.05.md",
-    "2018 戊戌狗/01.07.md",
     "2019 乙亥猪/未命名",
     "2019 乙亥猪/assets/2019.11.22.png",
     "2017/从荣耀手机转移过来的",
@@ -213,13 +192,11 @@
     "IT/资料",
     "金融/商",
     "2019 乙亥猪/assets/可见欲的解决方法.jpg",
-    "2020 庚子鼠/手记 我看见的真理2",
     "2019 乙亥猪/assets/杀人案件中9成为熟人作案.png",
     "2019 乙亥猪/assets/你知道答案吗？.png",
     "2019 乙亥猪/assets/大学认知世界进程.png",
     "未命名.canvas",
     "阅读/网络收集/知乎/assets/男生会在意女孩家境吗01.jpeg",
-    "阅读/网络收集/知乎/assets/男生会在意女孩家境吗00.jpeg",
-    "阅读/网络收集/assets/漫画-无罪之城00.jpg"
+    "阅读/网络收集/知乎/assets/男生会在意女孩家境吗00.jpeg"
   ]
 }
