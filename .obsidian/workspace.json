@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "主页/核心.md",
+                "file": "主页/未来想做的事.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "主页/核心.md",
+                "file": "主页/未来想做的事.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "主页/核心.md",
+                "file": "主页/未来想做的事.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "主页/核心.md"
+                "file": "主页/未来想做的事.md"
               }
             }
           },
@@ -158,10 +158,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c398aee642a1300",
+  "active": "5c728c71145cff9d",
   "lastOpenFiles": [
-    "主页/未来想做的事.md",
+    "未命名",
     "主页/核心.md",
+    "主页/未来想做的事.md",
     "主页/账号(旧).md",
     "主页/账号(新).md",
     "暂未分类.md",
@@ -189,7 +190,6 @@
     "和未来说",
     "阅读/笔记/《谁的大学不迷茫》.md",
     "2017/从荣耀手机转移过来的/未命名 65.md",
-    "阅读/书单3.md",
     "阅读/警句/assets/奇波拉五定律.jpeg",
     "阅读/警句/assets",
     "阅读/作品",
