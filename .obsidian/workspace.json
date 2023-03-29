@@ -4,128 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "de3a2286d80bc341",
+        "id": "eca888e94eb2926d",
         "type": "tabs",
         "children": [
           {
-            "id": "677fad63e192bd83",
+            "id": "16de59d7721f80f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/道德经/想法.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "496108ea058c203c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/笔记/维特根斯坦.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "962d795e8724636b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/笔记/黑色的四叶草.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "631a88b1ac939a25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/笔记/罗翔.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "041d53e3e9231fa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2020 庚子鼠/03.08.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c41e147919642024",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/笔记/血液(韩剧).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2d23e4e4f348183",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/网络收集/变现.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6e654f17dffcad1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/网络收集/漫画 无罪之城.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f37ed25858aa36e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/无罪之城.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读/无罪之城.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读/无罪之城.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "阅读/无罪之城.md"
-              }
+              "state": {}
             }
           },
           {
@@ -247,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,13 +148,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f37ed25858aa36e",
+  "active": "16de59d7721f80f0",
   "lastOpenFiles": [
+    "阅读/网络收集/assets/漫画-无罪之城00.jpg",
+    "阅读/笔记/无罪之城.md",
+    "阅读/书单.md",
+    "阅读/assets/赚钱.jpg",
     "阅读/笔记/assets/无罪之城2.jpg",
     "阅读/笔记/assets/无罪之城1.1.png",
     "阅读/笔记/assets/无罪之城1.jpg",
     "阅读/笔记/assets/无罪之城0.jpg",
-    "阅读/无罪之城.md",
     "阅读/网络收集/漫画 无罪之城.md",
     "阅读/已读.md",
     "阅读/笔记/血液(韩剧).md",
@@ -295,9 +183,7 @@
     "2018 戊戌狗/03.02.md",
     "2018 戊戌狗/02.21.md",
     "2018 戊戌狗/08.14.md",
-    "2018 戊戌狗/08.17.md",
     "阅读/笔记",
-    "阅读/assets/赚钱.jpg",
     "阅读/assets",
     "2019 乙亥猪/未命名",
     "2019 乙亥猪/assets/2019.11.22.png",
@@ -309,7 +195,6 @@
     "2019 乙亥猪/教训/assets",
     "2019 乙亥猪/教训",
     "2020 庚子鼠/教训",
-    "2019 乙亥猪/assets/可见欲的解决方法.jpg",
     "未命名.canvas"
   ]
 }
