@@ -8,267 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "db487624ebf86111",
+            "id": "24aa1ea6e271e499",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读/警句/李健.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ce9367b924e368a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/警句/《科学》.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49c069f286721ca3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/网络收集/未知来源.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37c7b56eb273a83b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2018 戊戌狗/06.11.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f35e94f8a0b690e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/笔记/英语初学释疑.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c9c76921da24314",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/警句/张维迎.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24d3499b8feaee06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/警句/没有心跳的少女.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40e1c591d4165b04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/警句/培根随笔记.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6dd27b60397cdc22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/网络收集/东北历史.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf147cc184d7e101",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/笔记/穷爸爸富爸爸.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "089e2a5be0e61a05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2018 戊戌狗/05.23.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba27086cb8c3a5d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/警句/奇波拉五定律.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4259a18c01784bda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/警句/没有心跳的少女.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5d9c65d87df8afb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/警句/杨绛.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a252ab5a1049bfa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/警句/奇波拉五定律.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8408b8363aea6306",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/警句/论自卑-江尧宏.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6392b54e933b754",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2018 戊戌狗/04.29.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a473ad8575c0710",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/网络收集/领导与乞丐.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c780363f43f4e95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/警句/名言合集.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22cc104b296f4658",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2018 戊戌狗/04.29.md",
+                "file": "阅读/笔记/东京食尸鬼.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 19
+        ]
       }
     ],
     "direction": "vertical"
@@ -334,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2018 戊戌狗/04.29.md",
+                "file": "阅读/笔记/东京食尸鬼.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2018 戊戌狗/04.29.md",
+                "file": "阅读/笔记/东京食尸鬼.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -374,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2018 戊戌狗/04.29.md"
+                "file": "阅读/笔记/东京食尸鬼.md"
               }
             }
           },
@@ -406,12 +158,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "22cc104b296f4658",
+  "active": "24aa1ea6e271e499",
   "lastOpenFiles": [
+    "阅读/网络收集/穷人和富人的思想.md",
+    "阅读/笔记/东京食尸鬼.md",
+    "阅读/警句/鲁迅.md",
+    "2018 戊戌狗/04.29.md",
     "2018 戊戌狗/未命名 6.md",
     "阅读/警句/名言合集.md",
     "阅读/网络收集/领导与乞丐.md",
-    "2018 戊戌狗/04.29.md",
     "2018 戊戌狗/未命名 5.md",
     "阅读/警句/论自卑-江尧宏.md",
     "阅读/警句/奇波拉五定律.md",
@@ -433,9 +188,6 @@
     "阅读/笔记/英语初学释疑.md",
     "阅读/笔记/欲罢不能.md",
     "阅读/笔记/原君.md",
-    "阅读/笔记/原则.md",
-    "阅读/笔记/穷爸爸富爸爸.md",
-    "阅读/笔记/复活的鲁鲁修.md",
     "阅读/作品",
     "阅读/感悟",
     "未命名.canvas",
