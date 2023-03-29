@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c0d14ab8799bb84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/已读.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2018 戊戌狗/11.23.md",
+                "file": "阅读/已读.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2018 戊戌狗/11.23.md",
+                "file": "阅读/已读.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2018 戊戌狗/11.23.md"
+                "file": "阅读/已读.md"
               }
             }
           },
@@ -158,8 +172,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dc28d5d3b3a77569",
+  "active": "7c0d14ab8799bb84",
   "lastOpenFiles": [
+    "2018 戊戌狗/11.23.md",
+    "阅读/已读.md",
     "2018 戊戌狗/未命名 41.md",
     "2017/12.08.md",
     "2017/12.09.md",
@@ -184,8 +200,6 @@
     "2018 戊戌狗/01.04.md",
     "2018 戊戌狗/01.05.md",
     "2018 戊戌狗/01.07.md",
-    "2018 戊戌狗/01.12.md",
-    "2018 戊戌狗/01.13.md",
     "2019 乙亥猪/未命名",
     "2019 乙亥猪/assets/2019.11.22.png",
     "2017/从荣耀手机转移过来的",
