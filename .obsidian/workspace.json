@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "55d3b3ce00d16ed4",
+            "id": "7b6dc25bfbe828a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读/网络收集/未死先亡.md",
+                "file": "阅读/网络收集/经济机器是如何运行的.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "68a19e9c1f738b09",
+            "id": "f873596a87032be8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读/名言警句/中国惊奇先生.md",
+                "file": "阅读/笔记/被禁止的历史.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "003a2597a20109a9",
+            "id": "649ed90e1cc59b01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读/名言警句/奇特的一生.md",
+                "file": "阅读/名言警句/投资者—Z.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,27 +47,12 @@
             }
           },
           {
-            "id": "67369e2bc90d8dc9",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "8ad1a76ef7bd1d5d",
+            "id": "cf2a6ebe0d9ad92b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读/感悟/大话西游.md",
+                "file": "阅读/名言警句/进击的巨人.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -75,12 +60,12 @@
             }
           },
           {
-            "id": "579aa608b0879253",
+            "id": "f91cac157bd5430c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读/感悟/动物农场.md",
+                "file": "阅读/名言警句/秦时明月.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,8 +119,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读/感悟/动物农场.md",
+                "file": "阅读/名言警句/秦时明月.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读/感悟/动物农场.md",
+                "file": "阅读/名言警句/秦时明月.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读/感悟/动物农场.md"
+                "file": "阅读/名言警句/秦时明月.md"
               }
             }
           },
@@ -227,10 +211,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4020680f50007e63",
+  "active": "f91cac157bd5430c",
   "lastOpenFiles": [
-    "阅读/感悟/大话西游.md",
+    "阅读/名言警句/进击的巨人.md",
+    "阅读/名言警句/秦时明月.md",
+    "阅读/名言警句/投资者—Z.md",
+    "阅读/笔记/被禁止的历史.md",
+    "阅读/网络收集/经济机器是如何运行的.md",
+    "阅读/名言警句/所罗门.md",
+    "阅读/网络收集/未知来源.md",
+    "阅读/网络收集/未死先亡.md",
+    "阅读/网络收集/b站.md",
+    "阅读/名言警句/石国鹏.md",
+    "阅读/名言警句/尼古拉•特斯拉.md",
+    "阅读/名言警句/死囚乐园.md",
+    "阅读/笔记/人人都能学英语.md",
     "阅读/感悟/动物农场.md",
+    "阅读/感悟/大话西游.md",
     "阅读/未命名.md",
     "阅读/感悟",
     "阅读/未命名 1.md",
@@ -243,20 +240,7 @@
     "阅读/名言警句/欢乐颂.md",
     "阅读/名言警句/奇特的一生.md",
     "阅读/名言警句/中国惊奇先生.md",
-    "阅读/网络收集/未死先亡.md",
     "阅读/名言警句/龙樱.md",
-    "阅读/网络收集/资本主义的比喻.md",
-    "阅读/网络收集/克服接近陌生女孩的恐惧感.md",
-    "阅读/网络收集/未知来源.md",
-    "阅读/网络收集/未命名 1.md",
-    "阅读/网络收集/知乎/小论自律-孙川峰.md",
-    "阅读/笔记/少有人走的路.md",
-    "阅读/名言警句/三角草的春天.md",
-    "阅读/名言警句/走马灯株式会社.md",
-    "阅读/名言警句/爱因斯坦.md",
-    "2018 戊戌狗/12.28.md",
-    "2018 戊戌狗/未命名.md",
-    "阅读/名言警句/易中天.md",
     "阅读/assets/无罪之城2.jpg",
     "阅读/名言警句",
     "阅读/assets/漫画-无罪之城00.jpg",
