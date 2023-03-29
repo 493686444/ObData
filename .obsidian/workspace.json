@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "主页/未来想做的事.md",
+                "file": "阅读/警句/无罪之城.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "主页/未来想做的事.md",
+                "file": "阅读/警句/无罪之城.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "主页/未来想做的事.md",
+                "file": "阅读/警句/无罪之城.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "主页/未来想做的事.md"
+                "file": "阅读/警句/无罪之城.md"
               }
             }
           },
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,10 +159,13 @@
   },
   "active": "3c398aee642a1300",
   "lastOpenFiles": [
+    "阅读/书单.md",
+    "阅读/assets/赚钱.jpg",
+    "阅读/警句/assets/无罪之城2.jpg",
+    "主页/未来想做的事.md",
     "未命名",
     "往年记",
     "主页/核心.md",
-    "主页/未来想做的事.md",
     "主页/账号(旧).md",
     "主页/账号(新).md",
     "暂未分类.md",
@@ -195,16 +197,13 @@
     "阅读/警句/assets",
     "阅读/作品",
     "阅读/感悟",
-    "阅读/assets/无罪之城2.jpg",
     "阅读/警句",
-    "阅读/assets/漫画-无罪之城00.jpg",
-    "阅读/assets/赚钱.jpg",
-    "阅读/assets/无罪之城1.1.png",
-    "阅读/assets/无罪之城1.jpg",
-    "阅读/assets/无罪之城0.jpg",
-    "阅读/assets/无罪之城1.0.png",
+    "阅读/警句/assets/漫画-无罪之城00.jpg",
+    "阅读/警句/assets/无罪之城1.1.png",
+    "阅读/警句/assets/无罪之城1.jpg",
+    "阅读/警句/assets/无罪之城0.jpg",
+    "阅读/警句/assets/无罪之城1.0.png",
     "阅读/笔记/assets",
-    "阅读/笔记",
     "往年记/2019/assets/2019.11.22.png",
     "往年记/2019/assets/2019.06.20.png"
   ]
