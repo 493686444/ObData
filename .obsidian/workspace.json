@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读/名言警句/李健.md",
+                "file": "阅读/警句/李健.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读/名言警句/《科学》.md",
+                "file": "阅读/警句/《科学》.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -71,9 +71,113 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c9c76921da24314",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/警句/张维迎.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24d3499b8feaee06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/警句/没有心跳的少女.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40e1c591d4165b04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/警句/培根随笔记.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6dd27b60397cdc22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/网络收集/东北历史.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf147cc184d7e101",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/笔记/穷爸爸富爸爸.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "089e2a5be0e61a05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2018 戊戌狗/05.23.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba27086cb8c3a5d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/网络收集/奇波拉五定律.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4259a18c01784bda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/警句/马云.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -139,7 +243,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读/笔记/英语初学释疑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +259,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读/笔记/英语初学释疑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,9 +280,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "阅读/笔记/英语初学释疑.md"
-              }
+              "state": {}
             }
           },
           {
@@ -211,38 +311,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f35e94f8a0b690e",
+  "active": "5c728c71145cff9d",
   "lastOpenFiles": [
-    "阅读/笔记/未命名.md",
+    "阅读/作品",
+    "阅读/警句/马云.md",
+    "阅读/作品.md",
+    "阅读/网络收集/奇波拉五定律.md",
+    "2018 戊戌狗/05.23.md",
+    "2018 戊戌狗/未命名 4.md",
+    "阅读/笔记/穷爸爸富爸爸.md",
+    "阅读/网络收集/东北历史.md",
+    "阅读/警句/培根随笔记.md",
+    "阅读/警句/没有心跳的少女.md",
+    "阅读/警句/张维迎.md",
+    "阅读/笔记/英语初学释疑.md",
     "阅读/网络收集/人们会在什么情况下切实感受到别人的愚蠢？.md",
     "2018 戊戌狗/06.11.md",
     "2018 戊戌狗/未命名 3.md",
     "阅读/网络收集/未知来源.md",
-    "阅读/名言警句/寄生兽.md",
-    "阅读/名言警句/《科学》.md",
-    "阅读/名言警句/李健.md",
+    "阅读/警句/寄生兽.md",
+    "阅读/警句/《科学》.md",
+    "阅读/警句/李健.md",
     "2018 戊戌狗/06.25.md",
     "2018 戊戌狗/未命名 2.md",
-    "阅读/名言警句/狂热分子-埃里克·霍弗.md",
-    "阅读/名言警句/微观经济学.md",
+    "阅读/警句/狂热分子-埃里克·霍弗.md",
+    "阅读/警句/微观经济学.md",
     "2018 戊戌狗/07.17.md",
     "2018 戊戌狗/07.18.md",
     "2018 戊戌狗/未命名 1.md",
-    "阅读/名言警句/100个基本.md",
-    "阅读/名言警句/勒内·夏尔.md",
-    "阅读/感悟/非自然死亡.md",
-    "阅读/感悟/少年犯之七人.md",
-    "阅读/网络收集/某公众号.md",
-    "阅读/名言警句/秦时明月.md",
-    "阅读/名言警句/进击的巨人.md",
-    "阅读/名言警句/投资者—Z.md",
-    "阅读/笔记/被禁止的历史.md",
-    "阅读/网络收集/经济机器是如何运行的.md",
-    "阅读/名言警句/所罗门.md",
     "阅读/感悟",
     "未命名.canvas",
     "阅读/assets/无罪之城2.jpg",
-    "阅读/名言警句",
+    "阅读/警句",
     "阅读/assets/漫画-无罪之城00.jpg",
     "阅读/assets/赚钱.jpg",
     "阅读/assets/无罪之城1.1.png",
