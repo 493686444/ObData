@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "12d197a4d1fdbb5d",
+        "id": "dd6810778c878dd7",
         "type": "tabs",
         "children": [
           {
-            "id": "3f53b07313390b61",
+            "id": "3c398aee642a1300",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "暂未分类/home.md",
+                "file": "主页/核心.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "暂未分类/home.md",
+                "file": "主页/核心.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "暂未分类/home.md",
+                "file": "主页/核心.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "暂未分类/home.md"
+                "file": "主页/核心.md"
               }
             }
           },
@@ -158,10 +158,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f53b07313390b61",
+  "active": "3c398aee642a1300",
   "lastOpenFiles": [
+    "主页/未来想做的事.md",
+    "主页/核心.md",
+    "主页/账号(旧).md",
+    "主页/账号(新).md",
+    "暂未分类.md",
+    "2019/08.22.md",
     "2019/10.31.md",
-    "暂未分类/home.md",
     "2019/04.14.md",
     "和未来说/预/2020.md",
     "和未来说/预/2019.md",
@@ -185,11 +190,6 @@
     "阅读/笔记/《谁的大学不迷茫》.md",
     "2017/从荣耀手机转移过来的/未命名 65.md",
     "阅读/书单3.md",
-    "阅读/警句/李敏鸿～大学生必做三件事.md",
-    "阅读/警句/鲁迅.md",
-    "2018/04.29.md",
-    "阅读/警句/尸鬼.md",
-    "阅读/警句/王健林.md",
     "阅读/警句/assets/奇波拉五定律.jpeg",
     "阅读/警句/assets",
     "阅读/作品",
