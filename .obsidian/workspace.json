@@ -45,9 +45,50 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "67369e2bc90d8dc9",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "8ad1a76ef7bd1d5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/笔记/把时间当作朋友.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6923f513925ff517",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/名言警句/大话西游.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -113,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读/名言警句/奇特的一生.md",
+                "file": "阅读/名言警句/大话西游.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读/名言警句/奇特的一生.md",
+                "file": "阅读/名言警句/大话西游.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读/名言警句/奇特的一生.md"
+                "file": "阅读/名言警句/大话西游.md"
               }
             }
           },
@@ -185,10 +226,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "003a2597a20109a9",
+  "active": "6923f513925ff517",
   "lastOpenFiles": [
-    "阅读/名言警句/中国惊奇先生.md",
+    "阅读/笔记/把时间当作朋友.md",
+    "阅读/名言警句/大话西游.md",
+    "未命名.canvas",
+    "2018 戊戌狗/11.20.md",
+    "阅读/名言警句/欢乐颂.md",
     "阅读/名言警句/奇特的一生.md",
+    "阅读/名言警句/中国惊奇先生.md",
     "阅读/网络收集/未死先亡.md",
     "阅读/名言警句/龙樱.md",
     "阅读/网络收集/资本主义的比喻.md",
@@ -209,10 +255,6 @@
     "阅读/名言警句/《回答》-北岛.md",
     "阅读/名言警句/尼古拉•特斯拉.md",
     "阅读/笔记/原君.md",
-    "阅读/网络收集/知乎/孤独与优秀.md",
-    "阅读/网络收集/b站.md",
-    "阅读/名言警句/南怀瑾.md",
-    "阅读/名言警句/曾仕强：什么是真正的信仰？人活着到底需要怎样的信仰.md",
     "阅读/assets/无罪之城2.jpg",
     "阅读/名言警句",
     "阅读/assets/漫画-无罪之城00.jpg",
@@ -232,7 +274,6 @@
     "2017/教训",
     "2019 乙亥猪/教训/assets/2019.11.13.jpg",
     "2019 乙亥猪/教训/assets",
-    "2019 乙亥猪/教训",
-    "未命名.canvas"
+    "2019 乙亥猪/教训"
   ]
 }
