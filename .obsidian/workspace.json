@@ -78,7 +78,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读/笔记/未命名.md",
+                "file": "阅读/笔记/原君.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afe1116ff9b1643a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/名言警句/尼古拉•特斯拉.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -152,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读/笔记/未命名.md",
+                "file": "阅读/名言警句/尼古拉•特斯拉.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读/笔记/未命名.md",
+                "file": "阅读/名言警句/尼古拉•特斯拉.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读/笔记/未命名.md"
+                "file": "阅读/名言警句/尼古拉•特斯拉.md"
               }
             }
           },
@@ -224,10 +237,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4edb2f346ba99f34",
+  "active": "afe1116ff9b1643a",
   "lastOpenFiles": [
+    "阅读/笔记/原君.md",
+    "阅读/名言警句/尼古拉•特斯拉.md",
     "阅读/网络收集/知乎/孤独与优秀.md",
-    "阅读/笔记/未命名.md",
     "阅读/网络收集/b站.md",
     "阅读/网络收集/未命名.md",
     "阅读/网络收集/资本主义的比喻.md",
@@ -252,7 +266,6 @@
     "阅读/名言警句/朱光潜：我不能告诉你必读的书，只能告诉你不必读的书.md",
     "阅读/名言警句/星学院.md",
     "阅读/笔记/复活的鲁鲁修.md",
-    "阅读/网络收集/漫画 无罪之城.md",
     "阅读/名言警句",
     "阅读/assets/漫画-无罪之城00.jpg",
     "阅读/assets/赚钱.jpg",
