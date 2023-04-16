@@ -4,89 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "07c96cb820ddf617",
+        "id": "382a80f92fbd3ed9",
         "type": "tabs",
         "children": [
           {
-            "id": "245c1e3c4ff556c1",
+            "id": "8db7c5600f2e49a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "往年记/高中/part1/176.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c4494af5bc11237",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "往年记/高中/part1/175.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fb7d82e146b8918",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "往年记/高中/part1/174.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e824f3916dfb0511",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "往年记/高中/part1/173.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80ef9e27a5afad10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023 癸卯兔/手记/04.14.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7cb4a67babfa0f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023 癸卯兔/手记/04.15.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 癸卯兔/手记/04.15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023 癸卯兔/手记/04.15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2023 癸卯兔/手记/04.15.md"
-              }
+              "state": {}
             }
           },
           {
@@ -225,10 +150,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b7cb4a67babfa0f8",
+  "active": "8db7c5600f2e49a8",
   "lastOpenFiles": [
-    "2023 癸卯兔/手记/04.14.md",
+    "往年记/高中/part1/176.md",
     "2023 癸卯兔/手记/04.15.md",
+    "2023 癸卯兔/手记/04.14.md",
     "往年记/高中/part1/173.md",
     "往年记/高中/part1/163.md",
     "往年记/高中/part1/167.md",
@@ -239,7 +165,6 @@
     "往年记/高中/part1/172.md",
     "往年记/高中/part1/174.md",
     "往年记/高中/part1/175.md",
-    "往年记/高中/part1/176.md",
     "往年记/高中/part1/177.md",
     "往年记/高中/part1/178.md",
     "往年记/高中/part1/181.md",
