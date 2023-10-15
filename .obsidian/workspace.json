@@ -45,9 +45,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "30ba1a45e5b3ce15",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -194,7 +204,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "208ce53436150dd6",
+  "active": "30ba1a45e5b3ce15",
   "lastOpenFiles": [
     "往年记/2020/11.12.md",
     "暂未分类.md",
