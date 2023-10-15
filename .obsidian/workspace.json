@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "208ce53436150dd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "往年记/高中/part1/148.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/书.md",
+                "file": "往年记/高中/part1/148.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/书.md",
+                "file": "往年记/高中/part1/148.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/书.md"
+                "file": "往年记/高中/part1/148.md"
               }
             }
           },
@@ -181,8 +194,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5c728c71145cff9d",
+  "active": "208ce53436150dd6",
   "lastOpenFiles": [
+    "往年记/2020/11.12.md",
+    "暂未分类.md",
+    "往年记/2020/10.31.md",
+    "往年记/2019/10.31.md",
+    "草稿纸.md",
     "阅读/笔记/尼古拉特斯拉 小传.md",
     "2023 癸卯兔/手记/05.21.md",
     "2023 癸卯兔/手记/05.19.md",
@@ -204,11 +222,6 @@
     "2023 癸卯兔/手记/04.14.md",
     "往年记/高中/part1/176.md",
     "往年记/高中/part1/173.md",
-    "往年记/高中/part1/163.md",
-    "往年记/高中/part1/167.md",
-    "往年记/高中/part1/166.md",
-    "往年记/高中/part1/171.md",
-    "往年记/高中/part1/168.md",
     "往年记/高中/part1",
     "往年记/高中",
     "阅读/assets/赚钱.jpg",
