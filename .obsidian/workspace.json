@@ -11,8 +11,13 @@
             "id": "79dcebbcdb184082",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2023 癸卯兔/手记/06.25.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023 癸卯兔/手记/06.25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023 癸卯兔/手记/06.25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023 癸卯兔/手记/06.25.md"
+              }
             }
           },
           {
@@ -158,8 +167,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "79dcebbcdb184082",
+  "active": "5c728c71145cff9d",
   "lastOpenFiles": [
+    "2023 癸卯兔/手记/08.25.md",
+    "2023 癸卯兔/手记/08.16.dm",
+    "2023 癸卯兔/手记/08.04.dm",
+    "2023 癸卯兔/手记/08.09.md",
+    "2023 癸卯兔/手记/07.06.md",
+    "2023 癸卯兔/手记/06.27.md",
+    "2023 癸卯兔/手记/06.25.md",
+    "2023 癸卯兔/手记/10.15.md",
+    "2023 癸卯兔/手记/09.24.md",
+    "2023 癸卯兔/手记/09.22.md",
+    "2023 癸卯兔/手记/09.08.md",
+    "2023 癸卯兔/手记/09.02.md",
+    "2023 癸卯兔/手记/08.31.md",
+    "2023 癸卯兔/手记/08.27.md",
     "IT/书.md",
     "往年记/高中/part1/148.md",
     "往年记/2020/11.12.md",
@@ -173,19 +196,6 @@
     "2023 癸卯兔/手记/05.14.md",
     "2023 癸卯兔/手记/05.07.md",
     "2023 癸卯兔/手记/04.21.md",
-    "2023 癸卯兔/日记/02.21 二月初二.md",
-    "2023 癸卯兔/手记/04.18 租房教训.md",
-    "金融/书单.md",
-    "2023 癸卯兔/手记/04.17.md",
-    "2023 癸卯兔/手记/04.19.md",
-    "2023 癸卯兔/手记/04.15.md",
-    "往年记/高中/part1/149.md",
-    "往年记/高中/part1/152.md",
-    "往年记/高中/part1/160.md",
-    "2023 癸卯兔/手记/04.07.md",
-    "2023 癸卯兔/手记/04.14.md",
-    "往年记/高中/part1/176.md",
-    "往年记/高中/part1/173.md",
     "往年记/高中/part1",
     "往年记/高中",
     "阅读/assets/赚钱.jpg",
@@ -198,8 +208,6 @@
     "和未来说",
     "阅读/警句/assets/奇波拉五定律.jpeg",
     "阅读/警句/assets",
-    "阅读/作品",
-    "阅读/感悟",
     "阅读/警句/assets/漫画-无罪之城00.jpg",
     "阅读/警句/assets/无罪之城1.1.png",
     "阅读/警句/assets/无罪之城1.jpg",
