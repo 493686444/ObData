@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "主页/账号(新).md",
+                "file": "主页/账号.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "账号",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "主页/账号(新).md",
+                "file": "主页/账号.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "主页/账号(新).md",
+                "file": "主页/账号.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "主页/账号(新).md"
+                "file": "主页/账号.md"
               }
             }
           },
@@ -183,7 +183,7 @@
   "active": "77faccc7eeb6ca6f",
   "lastOpenFiles": [
     "主页/账号(旧).md",
-    "主页/账号(新).md",
+    "主页/账号.md",
     "阅读/笔记/《千万不要学英语》.md",
     "微信读书笔记/潜规则：中国历史中的真实游戏-吴思.md",
     "微信读书笔记/南怀瑾著作全收录-南怀瑾.md",
