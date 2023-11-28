@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "e1d8abf9714130af",
+        "id": "21ce53e9f9716094",
         "type": "tabs",
         "children": [
           {
-            "id": "79dcebbcdb184082",
+            "id": "fb03a064a408fccf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023 癸卯兔/手记/09.24.md",
+                "file": "主页/账号(旧).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77faccc7eeb6ca6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "主页/账号(新).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "泊异乡的第一定律：",
+                "query": "账号",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +87,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 癸卯兔/手记/09.24.md",
+                "file": "主页/账号(旧).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023 癸卯兔/手记/09.24.md",
+                "file": "主页/账号(旧).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023 癸卯兔/手记/09.24.md"
+                "file": "主页/账号(旧).md"
               }
             }
           },
@@ -162,13 +176,18 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "remotely-save:Remotely Save": false,
-      "obsidian-weread-plugin:Weread": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "79dcebbcdb184082",
+  "active": "fb03a064a408fccf",
   "lastOpenFiles": [
+    "主页/账号(新).md",
+    "主页/账号(旧).md",
+    "阅读/笔记/《千万不要学英语》.md",
+    "微信读书笔记/潜规则：中国历史中的真实游戏-吴思.md",
+    "微信读书笔记/南怀瑾著作全收录-南怀瑾.md",
+    "阅读/警句/尼古拉•特斯拉.md",
+    "2023 癸卯兔/手记/09.24.md",
     "2023 癸卯兔/手记/assets/祈求.png",
     "2023 癸卯兔/手记/assets/祈求2.png",
     "2023 癸卯兔/手记/assets",
@@ -182,7 +201,6 @@
     "2023 癸卯兔/手记/07.06.md",
     "2023 癸卯兔/手记/06.27.md",
     "2023 癸卯兔/手记/10.15.md",
-    "2023 癸卯兔/手记/09.24.md",
     "2023 癸卯兔/手记/09.22.md",
     "2023 癸卯兔/手记/09.08.md",
     "2023 癸卯兔/手记/09.02.md",
@@ -194,11 +212,6 @@
     "暂未分类.md",
     "往年记/2020/10.31.md",
     "往年记/2019/10.31.md",
-    "草稿纸.md",
-    "阅读/笔记/尼古拉特斯拉 小传.md",
-    "2023 癸卯兔/手记/05.21.md",
-    "2023 癸卯兔/手记/05.19.md",
-    "2023 癸卯兔/手记/05.14.md",
     "往年记/高中/part1",
     "往年记/高中",
     "阅读/assets/赚钱.jpg",
@@ -214,7 +227,6 @@
     "阅读/警句/assets/无罪之城1.1.png",
     "阅读/警句/assets/无罪之城1.jpg",
     "阅读/警句/assets/无罪之城0.jpg",
-    "阅读/警句/assets/无罪之城1.0.png",
-    "往年记/2019/assets/2019.11.22.png"
+    "阅读/警句/assets/无罪之城1.0.png"
   ]
 }

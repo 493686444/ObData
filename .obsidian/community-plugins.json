@@ -1,8 +1,4 @@
 [
   "remotely-save",
-  "obsidian-git",
-  "obsidian-weread-plugin",
-  "obsidian-zoom",
-  "table-editor-obsidian",
-  "obsidian-mind-map"
+  "obsidian-git"
 ]
