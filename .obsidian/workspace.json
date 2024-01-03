@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "12936d948a133abc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +177,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "77faccc7eeb6ca6f",
+  "active": "12936d948a133abc",
   "lastOpenFiles": [
     "2023 癸卯兔/手记/10.22.md",
     "主页/账号(旧).md",
