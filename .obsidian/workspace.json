@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "观后感/其它.md",
+                "file": "观后感/漫画动漫/全球冰封.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "观后感/其它.md",
+                "file": "观后感/漫画动漫/全球冰封.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "观后感/其它.md",
+                "file": "观后感/漫画动漫/全球冰封.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "观后感/其它.md"
+                "file": "观后感/漫画动漫/全球冰封.md"
               }
             }
           },
@@ -167,6 +167,13 @@
   },
   "active": "43bd59f3fe39ba09",
   "lastOpenFiles": [
+    "观后感/漫画动漫/assets/全球冰封02.png",
+    "观后感/漫画动漫/assets/全球冰封03.png",
+    "观后感/漫画动漫/assets/全球冰封01.png",
+    "观后感/漫画动漫/全球冰封.md",
+    "观后感/漫画动漫/assets",
+    "观后感/其它.md",
+    "观后感/漫画动漫",
     "观后感/书单.md",
     "观后感/书单3.md",
     "观后感/书单2.md",
@@ -191,9 +198,6 @@
     "往年记/2023 癸卯兔/手记/06.25.md",
     "往年记/2023 癸卯兔/手记/06.27.md",
     "往年记/2023 癸卯兔/手记/10.15.md",
-    "往年记/2023 癸卯兔/手记/09.24.md",
-    "往年记/2023 癸卯兔/手记/09.22.md",
-    "往年记/2023 癸卯兔/手记/09.02.md",
     "往年记/2023 癸卯兔/手记/assets/祈求.png",
     "往年记/2023 癸卯兔/手记/assets/祈求2.png",
     "往年记/2023 癸卯兔/手记/assets",
@@ -208,12 +212,7 @@
     "2023 癸卯兔/手记/assets",
     "2023 癸卯兔/手记/08.16.dm",
     "2023 癸卯兔/手记/08.04.dm",
-    "往年记/高中/part1",
-    "往年记/高中",
     "观后感/警句/assets/无罪之城2.jpg",
-    "观后感/警句/assets/奇波拉五定律.jpeg",
-    "观后感/警句/assets/漫画-无罪之城00.jpg",
-    "观后感/警句/assets/无罪之城1.1.png",
-    "观后感/警句/assets/无罪之城1.jpg"
+    "观后感/警句/assets/奇波拉五定律.jpeg"
   ]
 }
