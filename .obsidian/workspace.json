@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "21ce53e9f9716094",
+        "id": "e03b930f0440624d",
         "type": "tabs",
         "children": [
           {
-            "id": "77faccc7eeb6ca6f",
+            "id": "43bd59f3fe39ba09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "主页/账号.md",
+                "file": "草稿纸.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "主页/账号.md",
+                "file": "草稿纸.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "主页/账号.md",
+                "file": "草稿纸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "主页/账号.md"
+                "file": "草稿纸.md"
               }
             }
           },
@@ -166,11 +165,15 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "77faccc7eeb6ca6f",
+  "active": "43bd59f3fe39ba09",
   "lastOpenFiles": [
+    "暂未分类.md",
+    "草稿纸.md",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "主页/账号.md",
     "2023 癸卯兔/手记/10.22.md",
     "主页/账号(旧).md",
-    "主页/账号.md",
     "阅读/笔记/《千万不要学英语》.md",
     "微信读书笔记/潜规则：中国历史中的真实游戏-吴思.md",
     "微信读书笔记/南怀瑾著作全收录-南怀瑾.md",
@@ -197,15 +200,12 @@
     "IT/书.md",
     "往年记/高中/part1/148.md",
     "往年记/2020/11.12.md",
-    "暂未分类.md",
-    "往年记/2020/10.31.md",
     "往年记/高中/part1",
     "往年记/高中",
     "阅读/assets/赚钱.jpg",
     "阅读/警句/assets/无罪之城2.jpg",
     "未命名",
     "往年记",
-    "未命名.canvas",
     "和未来说/预",
     "和未来说/说",
     "和未来说",
