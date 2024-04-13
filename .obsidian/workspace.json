@@ -11,9 +11,12 @@
             "id": "43bd59f3fe39ba09",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "观后感/assets/赚钱.jpg"
+                "file": "往年记/2023 癸卯兔/手记/09.08.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -91,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "观后感/assets/赚钱.jpg",
+                "file": "往年记/2023 癸卯兔/手记/09.08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "观后感/assets/赚钱.jpg",
+                "file": "往年记/2023 癸卯兔/手记/09.08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "观后感/assets/赚钱.jpg"
+                "file": "往年记/2023 癸卯兔/手记/09.08.md"
               }
             }
           },
@@ -162,8 +165,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "5c728c71145cff9d",
+  "active": "43bd59f3fe39ba09",
   "lastOpenFiles": [
+    "观后感/assets/赚钱.jpg",
     "观后感/警句/《来自新世界》.md",
     "观后感/笔记/东京食尸鬼.md",
     "观后感/笔记/复活的鲁鲁修.md",
@@ -189,7 +193,6 @@
     "往年记/2023 癸卯兔/手记/08.27.md",
     "往年记/2023 癸卯兔/手记/08.25.md",
     "往年记/2023 癸卯兔/手记/05.21.md",
-    "往年记/2023 癸卯兔/手记/05.19.md",
     "往年记/2023 癸卯兔/手记/assets/祈求.png",
     "往年记/2023 癸卯兔/手记/assets/祈求2.png",
     "往年记/2023 癸卯兔/手记/assets",
@@ -206,7 +209,6 @@
     "2023 癸卯兔/手记/08.04.dm",
     "往年记/高中/part1",
     "往年记/高中",
-    "观后感/assets/赚钱.jpg",
     "观后感/警句/assets/无罪之城2.jpg",
     "观后感/警句/assets/奇波拉五定律.jpeg",
     "观后感/警句/assets/漫画-无罪之城00.jpg",
