@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "观后感/漫画动漫/全球冰封.md",
+                "file": "主页/账号.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "观后感/漫画动漫/全球冰封.md",
+                "file": "主页/账号.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "观后感/漫画动漫/全球冰封.md",
+                "file": "主页/账号.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "观后感/漫画动漫/全球冰封.md"
+                "file": "主页/账号.md"
               }
             }
           },
@@ -165,8 +165,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "5c728c71145cff9d",
+  "active": "43bd59f3fe39ba09",
   "lastOpenFiles": [
+    "观后感/漫画动漫/全球冰封.md",
     "阅读/智者.md",
     "阅读/已读.md",
     "阅读/其它.md",
@@ -192,7 +193,6 @@
     "阅读/警句/易中天.md",
     "阅读/警句/所罗门.md",
     "阅读/警句/张维迎.md",
-    "阅读/警句/俾斯麦.md",
     "阅读/assets/赚钱.jpg",
     "阅读/警句/assets/无罪之城0.jpg",
     "阅读/警句/assets/无罪之城1.jpg",
